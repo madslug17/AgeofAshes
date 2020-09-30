@@ -20,44 +20,44 @@
 
 # Vitals
 
- HP:       33
- Damage:   10
- AC (t):   20 = 3 + 4 + 3
- Fort (e): 8 =  1 + 7
- Ref (e):  10 =  3 + 7
- Will (t): 4 = -1 + 5
+ HP:       42
+ Damage:   0
+ AC (t):   22 = 3 + 6 + 3
+ Fort (e): 9 =  1 + 8
+ Ref (e):  11 =  3 + 8
+ Will (t): 5 = -1 + 6
 
-## Perception: 4 = -1 + 5
+## Perception: 5 = -1 + 6
 
-## Class DC(t): 19 = 10 + 4 + 5
+## Class DC(t): 20 = 10 + 4 + 6
 
 # Combat
 
 ## Blowgun
 
-+ 8 = 3 + 5
++ 9 = 3 + 6
  1 Damage
  Range 20ft
 
 ## Alchemical Bomb
 
-+ 8 = 3 + 5
++ 9 = 3 + 6
  Range 20ft
 
 ## +1 Dagger
 
-+ 6 = 0 + 5 + 1
++ 7 = 0 + 6 + 1
  1D4 + 1
 
 ## Sling
 
-+ 8 = 3 + 5
++ 9 = 3 + 6
  1D6 + 0
  Range 50ft
 
 # Alchemy
 
-## 7 items per day
+## 8 items per day
 
 ## Known Recipes
 
@@ -65,14 +65,16 @@
 - 0 Acid Flask, Moderate
 - 6 Elixir of Life, Lesser
 - 2 Giant Centipede Poison
--   Smoke Stick
+- 2 Smoke Stick
 -   Antidote
 -   Tanglefoot Bag, Moderate
 -   Arsenic
 - 2 Black Adder Venom
-- Lethargy Poison
-- 2 Ghost Charge
-- Forensic Dye
+-   Lethargy Poison
+-   Ghost Charge, Moderate
+-   Forensic Dye
+- 2 Infiltrator's Elixir
+- 2 Cytillesh Oil
 
 # Attributes
 
@@ -94,23 +96,25 @@ CHA 14 +2
 - Read Lips
 - Poison Resistance
 - Glean Contents
+- Tenacious Toxins
+- Multilingual (Elven, Necril)
 
 # Skills
 
-- Acrobatics(t):      8 =  3 + 5
-- Crafting(t):        9 =  4 + 5
-- Deception(t):       7 =  2 + 5
-- Diplomacy(t):       7 =  2 + 5
-- Underworld Lore(t): 9 =  4 + 5
-- Goblin Lore(t):     9 =  4 + 5
-- Society(t):         11 =  4 + 7
-- Stealth(t):         8 =  3 + 5
-- Survival(t):        4 = -1 + 5
-- Thievery(t):        8 =  3 + 5
+- Acrobatics(t):      9 =  3 + 6
+- Crafting(t):        10 =  4 + 6
+- Deception(t):       8 =  2 + 6
+- Diplomacy(t):       8 =  2 + 6
+- Underworld Lore(t): 10 =  4 + 6
+- Goblin Lore(t):     10 =  4 + 6
+- Society(t):         12 =  4 + 8
+- Stealth(t):         9 =  3 + 6
+- Survival(t):        5 = -1 + 6
+- Thievery(t):        9 =  3 + 6
 
 ## Languages
 
-- Common, Goblin, Draconic, Gnoll, Gnomish, Dwarven
+- Common, Goblin, Draconic, Gnoll, Gnomish, Dwarven, Elven, Necril
 
 # Inventory
 
@@ -140,7 +144,7 @@ CHA 14 +2
 - ? Gettin' Trashed IPA x 3 -
 - Silver Dagger             L
 - ? Rations x 5             -
-- Grouladon rations x 4     -
+- Grauladon rations x 4     -
 - Lesser Tanglefoot Bag     -
 - Lesser Bottled Lightning  -
 - Lesser Cheetah's Elixir   -
@@ -152,9 +156,11 @@ CHA 14 +2
 - Vial of tunnel dirt
 - Blood Blade Mercenaries Receipt
 - +1 Dagger
-- Voz's Notes
+- Voz's Notes translated to Common
 - Pendant of Norgorber
 - +1 Leather Armor
+- Glowing Grass
+- Glowing Cave Mushrooms
 
 ## Bulk: 5
 

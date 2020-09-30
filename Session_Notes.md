@@ -116,7 +116,7 @@ We bump into the training dummies and they leak silver pieces. We find:
 
 We continue through the Imp room and happen upon a courtyard. There is a halfling clutching a Goblin. It is Calmont.
 
-We enter the courtyard. we try and negotiate with him while noticing the Growledon in the pond in the courtyard. Calmont flees to the battlements above the courtyard.
+We enter the courtyard. we try and negotiate with him while noticing the Grauladon in the pond in the courtyard. Calmont flees to the battlements above the courtyard.
 
 Fable tries to persuade him since she knows him from around town. He calls us do-gooders.
 
@@ -131,9 +131,9 @@ We almost kill Calmont and party with the Goblins. The goblins praise me and Ase
 - Dagger
 - Thieves' Tools
 
-Hal finds out the Growledon are the large-sized crushed dragons littering the courtyard. Not intelligent enough to form societies. They are not wildly beyond our capabilities.
+Hal finds out the Grauladon are the large-sized crushed dragons littering the courtyard. Not intelligent enough to form societies. They are not wildly beyond our capabilities.
 
-Helba knows about the downstairs, but never got the chance to tell Calmont about it. Growledon's blocked the downstairs, but Helba knows of a secret passage. We'll clear the downstairs and then Helba will guide us down. We'll break in Breachill while the Bramblebashers stay on the outskirts.
+Helba knows about the downstairs, but never got the chance to tell Calmont about it. Grauladon's blocked the downstairs, but Helba knows of a secret passage. We'll clear the downstairs and then Helba will guide us down. We'll break in Breachill while the Bramblebashers stay on the outskirts.
 
 ### Session 2 XP
 
@@ -149,11 +149,11 @@ We are in the citadel with the manacled Calmont. It is mid-afternoon.
 
 ## Hellknight Citadel Interior
 
-Gus gives me a large cigar and I cough while inhaling it. We leave Calmont manacled with the Bramblebashers. We go back into the courtyard, disturb the water and a growledon comes out. COMBAT!
+Gus gives me a large cigar and I cough while inhaling it. We leave Calmont manacled with the Bramblebashers. We go back into the courtyard, disturb the water and a Grauladon comes out. COMBAT!
 
-Fable slices the head of the Growledon off to end the combat.
+Fable slices the head of the Grauladon off to end the combat.
 
-I can harvest **meat** from this bad boy. Gus gets some Growledon hide and I get 5 rations.
+I can harvest **meat** from this bad boy. Gus gets some Grauladon hide and I get 5 rations.
 
 We get our malignity of goblins and start to head out when we spy an opened door... Gus puts a bench in front of it and we leave for Breachill.
 
@@ -185,7 +185,7 @@ Gus and I party with the Bramblebashers and Helba informs us of the secret passa
 
 ### Breachill Town Hall
 
-We go to Quintino and Greta and talk about the Elf Gate and the Growledons and such. in the Citadel. Alak is there and Hal talks him up even though he's evil... Greta is surprised there are Hellknights in the area again.
+We go to Quintino and Greta and talk about the Elf Gate and the Grauladons and such. in the Citadel. Alak is there and Hal talks him up even though he's evil... Greta is surprised there are Hellknights in the area again.
 
 #### Quintino gives us loot
 
@@ -193,11 +193,11 @@ We go to Quintino and Greta and talk about the Elf Gate and the Growledons and s
 
 ### Quarters and Bits
 
-#### Gus sells the Growledon hide and gets us each some loot
+#### Gus sells the Grauladon hide and gets us each some loot
 
 - 1 GP each
 
-The growledon hide is not resistant to fire.
+The Grauladon hide is not resistant to fire.
 
 ## Hellknight Hill Exterior
 
@@ -241,7 +241,7 @@ Pictures of Hellknights I do not recognize
 
 ### Citadel Foyer
 
-Lined with statues of Hellknights and in the corner we see three goblin dogs that are concerned with eating garbage. We feed them some Growledon meat and find they are itchy so we try and alleviate their pain. We cannot and we find nothing of note in the foyer.
+Lined with statues of Hellknights and in the corner we see three goblin dogs that are concerned with eating garbage. We feed them some Grauladon meat and find they are itchy so we try and alleviate their pain. We cannot and we find nothing of note in the foyer.
 
 ### Court Room
 
@@ -278,7 +278,7 @@ Gus channels and kills skeletons before they even rise. Fable and I pick a lock 
 
 ### Session 3 XP
 
-- 180     Rescuing Bumblebrashers/Calmont
+- 180     Rescuing Bramblebashers/Calmont
 - 60      Grauladon
 - 120     Bug Bear x2
 - 60      Goblin Dog x3
@@ -332,7 +332,7 @@ We encounter three birds. Combat! The emperor birds hit fucking hard! Stairs lea
 
 ### Dungeon Hall #1
 
-We find Boggards who we attack because they looked threatening. We tie them up and I fix Gus's shield. Red cloth is symbol of Galak the dragon god on the Boggards' shoulders. They babble in Boggard and Gus decapitates them. This room belonged to the Bramblebashers.
+We find Boggards who we attack because they looked threatening. We tie them up and I fix Gus's shield. Red cloth is symbol of Dahak the dragon god on the Boggards' shoulders. They babble in Boggard and Gus decapitates them. This room belonged to the Bramblebashers.
 
 #### Room Loot
 
@@ -558,7 +558,7 @@ Gus sells off our excess loot to divvy up amongst the group.
 
 Everyone gets 12GP
 
-Mo' and Hus fully heal two sets of Hellknight fullplate! We sell them for 10GP and a set of fullplate armor for Gus. Gus sells his Breastplate for 4GP and adds 1GP to the group loot.
+Mo' and Gus fully heal two sets of Hellknight fullplate! We sell them for 10GP and a set of fullplate armor for Gus. Gus sells his Breastplate for 4GP and adds 1GP to the group loot.
 
 ### Shelyn's Smile
 
@@ -811,16 +811,6 @@ Her journal is written in Necril.
 
 We also find notes for a necromantic ritual for summoning.
 
-## Session 7 XP
-
-- 160    Pib, Zarf, Bumble and tying up various loose ends in the basement floors
-- 40     Explosive barrels trap
-- 10      Laying the beatdown on some cooks
-- 100    Handling of matters at the Pickled Ear
-- 20      Uncovering some mysteries of Breachill
-- 330    Session 7 Total
-- 180    Level 3 Total
-
 ## Session 8 XP
 
 - 200 Blood Blade Mercenaries and bonus for Dmiri interaction
@@ -931,3 +921,134 @@ Renali transforms into an a spider humanoid. She says she is of the Anadi people
 She closed off the way deeper with webbing. She unblocks it for us so we can proceed.
 
 There is a bone throne wrapped in red velvet. The centerpiece of this room. Arranged in concentric circles around the throne are a number of humanoid corpses. Each are posed so their heads are pointing towards the goblin sitting on this throne. Combat!
+
+## Session 9 XP
+
+- 60      "What happened here?" from Voz Diary
+- 60      Renali interaction
+- 120     Session 9 Total
+- 660     Level 3 Total
+
+# Session 10 (Goblin President, the scurge of Chris's dice)
+
+*With special note-taker Chris!*
+
+## Cave to Alesta's Ring
+
+### Large Cavern
+
+Start in combat. Thing corners Hal, everyone is at half or less. Fable comes in CLUTCH with a double sneak attack crit. Hal steals the kill with a lengthily described magic missile. We all slowly melt from poison damage. Ends up it's a greater Barghest. Mo knows that there was a "goblin/kobold god" worshiped in the region. Gus knows it's from the abyssal plane and decided to stay in Golarian to be an asshole. He's been here being an a-hole for centuries.
+
+#### Hal missile description
+
+ Hal strains himself to concentrate his bloodline into the casting of all his spells, as he strains harder and harder more and more silver scales covers his skin, and he begins smoking with a white icy mist. He puts all his energy into a single casting of magic missile and fires two bolts, which look much more like arcane bolts rather than wispy arcane darts. (a magic missile like a dragon would cast rather than a tiny gnome sorcerer. The bolts slam into an open wound fable created with her crit, and the bolts explode inside of the creature, destroying just enough if its vital organs to kill the creature.
+
+#### Room loot
+
+- +1 Chainmail
+- Breastplate
+- Fear gem
+- Feather token fan
+- Healers' gloves
+
+Gus and Fable identify a bunch of bones from different races. Gus collects non goblin bones and starts digging graves. Mo objects and collects goblin bones. Gus agrees and they both begrudingly dig graves.
+
+### Cavern Well
+
+We reach a hole in the cave with a bunch of shrooms and a white grass field surrounding it. Mo runs up and eats a shroom, kicking up spores and poisoning everyone. We leave the cave and wash off the spores.
+
+Back in the cave we mission impossible fable into the hole below. Fable yells whatsup to us above, monkey moshpit ensues. Evil monkey cleric can fireball. We take the cleric alive.
+
+**Welcome to Level 4!**
+
+# Session 11
+
+## Alesta's Ring
+
+### Elfgate
+
+There are 6 elves (Alesta, Yeral, Desna, Ketapes, Calistra, Findilara) facing outward from an empty fountain. There are six different archways each with a different decor. One is collapsed, but they are all featureless panes of polished stone in the archways. Archways are ancient Iudaras. Hal knows one must touch a portal with a key to trigger the archway to lead to a passage to the gateway destination.
+
+#### Room Loot
+
+- 10 x Hatchets
+- 2 x Clubs
+- 2 xLeather Armor
+- +1 Shimmering Chain Shirt
+- Religious Symbol
+- +1 Striking Red-dragonscaled Spiked "Cinderclaw" Gauntlet (1d6 fire on critical) - Asemar
+- Large Golden "Hunter's" Arrowhead of Ketapes - Angela
+
+Alesta is the god of doors. Symbol is a lotus. Iudara destroyed.
+
+Ketapes has moons and Hawks on it. Southwest
+
+Crystal decor. Archway has stalactites and iconography of Yeral
+
+Sunset decor for Findilara.
+
+Stars and butterfly decor for Desna.
+
+Wasps, wisps, and wave decor for Calistra. West
+
+Double doors at the top. The elf statues say "The custodian of Alesta's ring lies beyond. Only those who possess the symbol of Alesta may pass." in Elven.
+
+Fable touches the arrowhead to  Ketapes's door. It flashes and radiates. Then turns back to solid stone. Hal knows the portal is malfunctioning and must be repaired.
+
+Mo' knows this will require help from stonemasons. Hal wishes to fix the fountain as well.
+
+We hold up the silver figuring of Alesta to the portal and the statues say we can pass.
+
+We enter the portal!
+
+### Alesta's Vault
+
+It's just a storage room with shelves and papers.
+
+A desk contains the deed to the citadel. We own the castle now!
+
+### Large Cavern
+
+We tell Renali we found the portals, but the one she needs to go through to get home is still broken. She will wait here until it is fixed. Gus tries to convince her to come to the city, but she is cautious of doing so.
+
+## Outside Breachill
+
+### Forest
+
+We wake up the two Charau-ka we knocked out. Gus wants to know what they were doing there. They say they were claiming our land in the name of Dahak, god of chromatic dragons, who apparently last had residence in hell. Dahak is not on the other side of the portal, but the Charau-ka says we will meet him soon. The Cinderclaws seem to lead each other according to this guy.
+
+## Breachill
+
+We talk to the guards, tell them to lock them up. We say one is a cleric so take extra precautions.
+
+**I go on a run and miss sooooo much**
+
+### The Pickled Ear
+
+We talk to Roxie and get rooms at The Pickled Ear for free. Hal manages to get Roxie to be warm and friendly to us by having a conversation with her.
+
+**We sleep for the night**
+
+### Breachill Townhall
+
+We go in to talk to Greta and Trini about the Elfgate in the citadel. There is no damning evidence on Voz, but Hal informs them of Renali and how denizens of the Mwangi expanse traveled through the portal. Hal talks of the Barghest, the ancient Iudara, and how we cannot enter most of them. Gus produces the deed to the citadel and asks for legal advice regarding it. Greta informs us that it is ours to keep. Hal asks for help funding the renovations of the citadel, Greta says they will help with tax funds best they can, but they cannot fully renovate the citadel.
+
+Greta INFORMS US THAT Voz has made a statement regarding her sentencing. Calmont acted alone with information stoledn from her. She has investigated Hellknight Hill for many months on her own dime, only to have it undone by a disgruntled employee and some vigilantes. She is throwing herself on thegoodwill of the people. Calmont has stated she orchestrated eveything. Mo' brings up that she was funded by the Scarlet Triad and was to use money to start a necromance school on the citadel. Mo' hands over Voz's Journal to Greta to help with the trial. Gus asks for more money, and Greta says she and her scribe will work out an amount for the citadel.
+
+### Monument Circle
+
+Gus asks us to stop and hold hands. Hal spits on his hands and we all get water breathing for an hour. Hal never returned his book on monument Circle. Jorell Blacktusk mad-dogs him from the Breachill Archives. Gus cannonballs in to the well. It opens up into an aquafer. Everyone else jumps in. A lady getting water sees a bunch of dirty adventurer's jumping in and she pours her water out.
+
+### Monument Circle Aquafer
+
+Holes in the ceiling are wells that lead to the surface. There is a statue exactly like the one above. Hal finds a magical crystal on the statue and takes it. He can't identify it, but knows it's a property rune. We all look around. Asemar notices a valve. Mo' knows it is a magical valve. Hal knows it has the property of granting endless water. It is on the lowest setting. We swim out of the well to Townsfolk who scowl at us.
+
+### Tuskhead Stoneworking
+
+We show up soaking wet and Fable greets Rorsk Axebane, owner. She asks to renovate the citadel for free. He agrees, but they need to source a ton of material from the quarry and he'll need a lot of help. Gus laurels Fable to Rorsk.
+
+### Quarters and Bits
+
+Hal has a book embroidered "Among Hereditary Arcana by Halcyonificarion". It's his new sorceror spellbook! He inscribes *Ray of Enfeeblement* into it.
+
+Fable, Gus, and Asemar pay 16GP to transfer armor runes to their own armor.
