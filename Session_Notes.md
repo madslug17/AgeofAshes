@@ -1052,3 +1052,82 @@ We show up soaking wet and Fable greets Rorsk Axebane, owner. She asks to renova
 Hal has a book embroidered "Among Hereditary Arcana by Halcyonificarion". It's his new sorceror spellbook! He inscribes *Ray of Enfeeblement* into it.
 
 Fable, Gus, and Asemar pay 16GP to transfer armor runes to their own armor.
+
+# Session 12
+
+*Three weeks later...*
+
+"Fall is starting. Breachill has named us as heroes and our reputation is spreading across Isger. Breachill is growing and Rorsk of Tuskhead Stoneworking received 200 Gold and has began repairs on the citadel. First floors are being renovated. An arcane library is taking shape along with temple shrines to Iomedae, healing quarters, and new stairs to the lower levels. Voz and Calmont were tried for arson and necromancy. They were sent to a prison in Elidir. Voz's book shop is going for sale. Alak Stagram has returned to the Order of the Nail. He is respectful, but disappointed he could not recover his signet ring. He has no qualms with us owning the citadel. The Pickled Ear is booming full of denizens and goblins. The Bramblebashers use the tunels from The Pickled Ear as a route from the citadel to Breachill.
+
+Fable trained acrobatics, Hal is making a book: "Among Arcane Hereditary", his spellbook, and helping with the library. Gus helped out here and there with the temple and healing quarters. Asemar earned income and Mo' wprked at Lamond's Lament and dumpster-dove.
+
+*Oathday Morning*
+
+## Breachill
+
+### Tuskhead Stoneworking Warehouse
+
+Fable awakes at home. Rorsk says the quarry caved in and he needs our help. Workers at the citadel could have more information. Fable puts out the Halcyon Brigade signal and we all meet at the Wizard's Grace.
+
+### Wizard's Grace
+
+We catch up. Fable informs us the quarry caved in.
+
+## Hellknight Hill
+
+Gus goes to see Bumble.
+
+Hal gives the stoneworkers water bottles and Rice Krispies treats. He asks about the collapse. Some of the small explosives may have gone off and blew up the entrance to the quarry. Dmiri went to investigate the explosion. She was hired as an investigator to investigate the explosion. It was an executive decision by Greta. Rorsk was the supervisor of the project. Hal cautions them on the explosion **Combat!**
+
+Two creatures fly off of the citadel and attack us. They look like mangled children bodies.
+
+Gus goes to the arcane library and knows that we encountered two Zebubs. They are Hell's messengers and spies. They can pass what they observe to other creatures. They are formed by the souls of tortured children. Fable remembers she saw one back in Breachill when Mo' was deciphering Voz's journal.
+
+We leave for the quarry (~ 1-2 miles away)
+
+## Quarry
+
+We've been here the previous weeks during the repairs.
+In the center of the quarry a cloaked body is hunched over a pentagram. There are three other bodies (Two half-orc and one human) evenly spaces in the pentagram.
+
+We proceed down the switchbacks to the bottom of the quarry. Fable slings a rock down at the cloaked body and it falls over.
+
+We reach the bottom.
+
+Hal detects the lingering magic of a devil summoning ritual in the pentagram.
+
+Gus finds that they were whipped before they were killed with a slicing weapon.
+
+Body of Hobgoblin and two associates. Dmiri and cohorts of Bloody Blade mercenaries! They are dead. Mo' killed them by telling them to become mercenaries!
+
+A bearded devil emerges from the cave. **Combat!**
+
+A few imps join him. Hal gets infected by devil blood and passes out.
+
+All the devils fade away.
+
+### The Cave
+
+Gus finds some footprints that takes us to the citadel and Breachill.
+
+## Breachill
+
+A pyre is outside of the Breachill Archives.
+
+## Breachill Archives
+
+Jorell Blacktusk is outside the archives , bloodied, but alive. The pyre appears to be books and documents burning. Jorell says a hellknight woman berated them for foregetting their traditions. She burned their most recent documents. She struck Jorell with her whip. She kept saying, "The venom of the mind poisons the body." She told Jorell to tell us that she is in the Crimson Tide Wood outside of town. Hal offers him the book he had and says, "She didn't get all the books. Here." and gives him the book.
+
+She had a whip and sword. Her armor wasa muscular with a sleek helmet that looked well-worn. Gus puts out the fire with the well water from nearby. Hal stays with Jorell.
+
+## Breachill Town Hall
+
+Scribes and others are watching the windows cautiously, definitely cowering in fear. The scribes go and get Greta. Greta asks what happened, and we inform her Dmiri was killed by a Barbazu. We need to go confront this Hellknight who went out the west gate. Greta says that "Isger has a long history with Hellknights."
+
+We all go to sleep for the night.
+
+We wake up, see her camp smoke in the distance, and Mo' applies poison to everyone's weapons.
+
+## Crimson Tide Woods
+
+We enter a clearing and we see the Hellknight.

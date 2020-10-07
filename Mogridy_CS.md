@@ -21,7 +21,7 @@
 # Vitals
 
  HP:       42
- Damage:   0
+ Damage:   1
  AC (t):   22 = 3 + 6 + 3
  Fort (e): 9 =  1 + 8
  Ref (e):  11 =  3 + 8
@@ -63,18 +63,18 @@
 
 - 2 Alchemist's Fire, Moderate
 - 0 Acid Flask, Moderate
-- 6 Elixir of Life, Lesser
-- 2 Giant Centipede Poison
+- 4 Elixir of Life, Lesser
+-   Giant Centipede Poison
 - 2 Smoke Stick
 -   Antidote
 -   Tanglefoot Bag, Moderate
 -   Arsenic
-- 2 Black Adder Venom
+-   Black Adder Venom
 -   Lethargy Poison
 -   Ghost Charge, Moderate
 -   Forensic Dye
 - 2 Infiltrator's Elixir
-- 2 Cytillesh Oil
+- 8 Cytillesh Oil
 
 # Attributes
 
@@ -164,6 +164,6 @@ CHA 14 +2
 
 ## Bulk: 5
 
-## GP: 57
+## GP: 72
 
 ## SP: 20
