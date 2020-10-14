@@ -896,7 +896,7 @@ Hal oscillates colors while he sleeps.
 
 ### Posandi Bros
 
-We all go to Posandi Bros.  We get directed to Almira, a manager, who goes and gets Alak for us, but she is snide about it. Alak comes out, and Fable asks what are we going to get for giving him the ring. Alak is upset we won't just give him the ring and offers us 20 GP. Gus says too bad we don't havfe the ring and we leave. Alak says that is disappointing. Mo' is upset about the whole thing.
+We all go to Posandi Bros.  We get directed to Amera, a manager, who goes and gets Alak for us, but she is snide about it. Alak comes out, and Fable asks what are we going to get for giving him the ring. Alak is upset we won't just give him the ring and offers us 20 GP. Gus says too bad we don't havfe the ring and we leave. Alak says that is disappointing. Mo' is upset about the whole thing.
 
 ## Cave to Alesta's Ring
 
@@ -993,7 +993,7 @@ Wasps, wisps, and wave decor for Calistra. West
 
 Double doors at the top. The elf statues say "The custodian of Alesta's ring lies beyond. Only those who possess the symbol of Alesta may pass." in Elven.
 
-Fable touches the arrowhead to  Ketapes's door. It flashes and radiates. Then turns back to solid stone. Hal knows the portal is malfunctioning and must be repaired.
+Fable touches the arrowhead to  Ketapes's door. It flashes and radiates. Then turns back to solid stone. Hal knows the portal is malfunctioning and must be repaired. It leads to the Mwangi Expanse,
 
 Mo' knows this will require help from stonemasons. Hal wishes to fix the fountain as well.
 
@@ -1059,7 +1059,7 @@ Fable, Gus, and Asemar pay 16GP to transfer armor runes to their own armor.
 
 "Fall is starting. Breachill has named us as heroes and our reputation is spreading across Isger. Breachill is growing and Rorsk of Tuskhead Stoneworking received 200 Gold and has began repairs on the citadel. First floors are being renovated. An arcane library is taking shape along with temple shrines to Iomedae, healing quarters, and new stairs to the lower levels. Voz and Calmont were tried for arson and necromancy. They were sent to a prison in Elidir. Voz's book shop is going for sale. Alak Stagram has returned to the Order of the Nail. He is respectful, but disappointed he could not recover his signet ring. He has no qualms with us owning the citadel. The Pickled Ear is booming full of denizens and goblins. The Bramblebashers use the tunels from The Pickled Ear as a route from the citadel to Breachill.
 
-Fable trained acrobatics, Hal is making a book: "Among Arcane Hereditary", his spellbook, and helping with the library. Gus helped out here and there with the temple and healing quarters. Asemar earned income and Mo' wprked at Lamond's Lament and dumpster-dove.
+Fable trained acrobatics, Hal is making a book: "Among Arcane Hereditary", his spellbook, and helping with the library. Gus helped out here and there with the temple and healing quarters. Asemar earned income and Mo' worked at Lamond's Lament and dumpster-dove.
 
 *Oathday Morning*
 
@@ -1118,7 +1118,7 @@ A pyre is outside of the Breachill Archives.
 
 Jorell Blacktusk is outside the archives , bloodied, but alive. The pyre appears to be books and documents burning. Jorell says a hellknight woman berated them for foregetting their traditions. She burned their most recent documents. She struck Jorell with her whip. She kept saying, "The venom of the mind poisons the body." She told Jorell to tell us that she is in the Crimson Tide Wood outside of town. Hal offers him the book he had and says, "She didn't get all the books. Here." and gives him the book.
 
-She had a whip and sword. Her armor wasa muscular with a sleek helmet that looked well-worn. Gus puts out the fire with the well water from nearby. Hal stays with Jorell.
+She had a whip and sword. Her armor was a muscular with a sleek helmet that looked well-worn. Gus puts out the fire with the well water from nearby. Hal stays with Jorell.
 
 ## Breachill Town Hall
 
@@ -1130,4 +1130,92 @@ We wake up, see her camp smoke in the distance, and Mo' applies poison to everyo
 
 ## Crimson Tide Woods
 
-We enter a clearing and we see the Hellknight.
+We enter a clearing and we see the Hellknight next to a pentagram.
+
+## Session 12 XP
+
+- 50    Zebub x2
+- 60    Chad Imp
+- 45    Virgin Imp x3
+- 155   Session Total
+
+# Session 13
+
+## Crimson Tide Woods
+
+The Hellknight, Disnael Rivel of the Order of the Rack, says we kept her waiting. Her voice raspiness informs us that she is elderly. She confesses she made the tracks from the pyre and she killed the Bloody Blade Mercenaries-- *gasp*, and Hal begs her to surrender before the Halcyon Brigade and be tried for her book-burning. She has the authority of Cheliax and Isger and she took retribution on the mercenaries for their crimes. Mo' informs Hal and Hal informs Disnael that Isger does not recognize the authority of Cheliax, and once again begs her to face her crimes. She states that the Hellknight citadel belongs to her and Cheliax. Just because the Order of the Nail left, does not mean the Halcyon Brigade can claim ownership of it. Gus says that the citadel fell into disrepair, and Disnael did nothing. Disnael says that is the failing of Breachill and The Order of the Rack is here to re-establish order.
+
+Gus can tell the summoning pentagram is inactive.
+
+We huddle to discuss giving Disnael the deed.
+
+Mo' notices a faint glow circling the clearing and alerts the group. We decide we can not allow her to have it, we break the huddle, and inform her of such.
+
+She states that that is unfortunate and will have to come back and take it by force.
+
+Gus brings up the murder and damage she has done. She says the books were tainting youthful minds, and force is the only way to rectify the damage done. She says we can send her an invoice.
+
+Hal informs her she is under arrest on the authority of Elidir, capital of Isger, for the murder of atoning citizens.
+
+She says come and get me.
+
+Mo' knows devil summoning is Hellknight kindergarten.
+
+We approach her and Gus attempts to detain her. **Combat!**
+
+### Disnael Loot
+- 1 Hellknight Full Plate
+- +1 Striking Whip
+- +1 Striking Longsword
+- Devil summoning components (chalk, candles)
+- a letter!
+
+The letter calls for aid, recalling recent history. As Mo reads it, it has negative connotations towards our adventures. Asks Hellknights for aid. Signed Amera Lang. It was destined for Elidir
+
+Hellknights are independent, but work with nations to accomplish goals. Amera lang is a manager for The Posandi Bros. and she sent the letter to The Order of the Rack.
+
+Mo' cannot find the reddish glowing light around the plain after Disnael was defeated.
+
+Gus digs a grave for Disnael and buries her.
+
+We head to Breachill.
+
+## Breachill
+
+### Breachill Town Hall
+
+Hal tells Greta and Trini they are once again indebted to The Halcyon Brigade. We produce the letter and go over the details of the morning.
+
+Quintino enters the room and is imeediately defensive. He says Amera did something out of line and he is here to explain, we kick him out. We say Amera wrote to Elidir. Greta says Amera was upset The Posandi Bros lost out on the rennovation business. Greta didn't know she would go that far. Greta says we should reign in our focus on protecting the town. Trini says she trusts us.
+
+Hal says the Iudara is bridged by a demiplane. He thinks he has a solution to fix the gates once they are physically repaired.
+
+We invite Quintino back in. He assures us Amera acted on her own behalf. She recently left town and he had no idea of her actions. He will happily relinquish his position on the town council and he will gladly answer any questions we have. He says the closest town is Elidir, so Amera could have fled to there, but is unsure. A faction of eight left Posandi Bros with Amera. They were worried about future work loss. Mo' brings up that there were supplies at Posandi Bros. forensically matching that found at the citadel. He postulates that Amera could've been doing devilry there for awhile and knows that Amera has had interest in the occult. He also states workers of The Posandi Bros have made trips to the citadel as well. Mo' says that Greta should nominate an independant party to go through the documents, manifests, and accounts to figure out how long Amera has been doing this. She agrees, and as Quinntino steps down, Greta needs another council member. Mo' nominates Warble of the Bramblebashers, and Trini agrees. We then get 75GP from Greta's assistant, Sheila to fund our adventures.
+
+### Breachill Archives
+
+Mo' tells Jorell that Disnael has been defeated, he should not worry about any more damage. Jorell says Mo' is welcome to the archives any time. Mo' goes through the archives and finds that the Order of the Rack is known to destroy wasteful or idealistic knowledge through rebellion suppression and book burning. They try and control by law and knowledge control.
+
+*The next morning*
+
+## Citadel
+
+### Iudara Chamber
+
+We work on the portal, Hal fails his check, and because of that Mo' and Hal take 28 points of damage.
+
+We do this a couple more times after moving a table in front of the portal, and finally do it as the rest of the party watches one with coffee and breakfast-- healing us occasionally.
+
+The gate is now repaired and it is an action to activate and deactivate.
+
+This is Ketapes's gate and it leads to the Mwangi Expanse.
+
+Gus gets Renali and she comes to the portal.
+
+We rest, gather supplies, tell the council, and Fable tells Rorsk and leaves money.
+
+We go through the tunnel.
+
+## Demiplane between portals.
+
+We see a dilapidated bridge, red earth, gray ash, red, and white smoke. No fresh fires. It looks like a dragon has been through here.

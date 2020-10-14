@@ -21,7 +21,7 @@
 # Vitals
 
  HP:       42
- Damage:   1
+ Damage:   0
  AC (t):   22 = 3 + 6 + 3
  Fort (e): 9 =  1 + 8
  Ref (e):  11 =  3 + 8
@@ -62,19 +62,19 @@
 ## Known Recipes
 
 - 2 Alchemist's Fire, Moderate
-- 0 Acid Flask, Moderate
-- 4 Elixir of Life, Lesser
+-   Acid Flask, Moderate
+- 4 Elixir of Life, Minor
 -   Giant Centipede Poison
 - 2 Smoke Stick
 -   Antidote
 -   Tanglefoot Bag, Moderate
 -   Arsenic
--   Black Adder Venom
+-   Origin Unguent
 -   Lethargy Poison
 -   Ghost Charge, Moderate
 -   Forensic Dye
 - 2 Infiltrator's Elixir
-- 8 Cytillesh Oil
+- 6 Cytillesh Oil
 
 # Attributes
 
@@ -161,9 +161,11 @@ CHA 14 +2
 - +1 Leather Armor
 - Glowing Grass
 - Glowing Cave Mushrooms
+- Deed to Helknight Hill
+- Disnael's Letter
 
 ## Bulk: 5
 
-## GP: 72
+## GP: 114
 
 ## SP: 20
