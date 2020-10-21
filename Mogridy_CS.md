@@ -148,7 +148,6 @@ CHA 14 +2
 - Lesser Tanglefoot Bag     -
 - Lesser Bottled Lightning  -
 - Lesser Cheetah's Elixir   -
-- Wild blackberries
 - Potion of Retaliation, lesser (Type fire)
 - Unidentified Masonry items
 - Invisibility Potion
@@ -163,6 +162,7 @@ CHA 14 +2
 - Glowing Cave Mushrooms
 - Deed to Helknight Hill
 - Disnael's Letter
+- Vial of antiparalysis hot sauce x 4
 
 ## Bulk: 5
 

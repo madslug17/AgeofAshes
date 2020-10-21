@@ -30,7 +30,7 @@ Reliant Book Co.
 We convince the guards to get inside.
  Fable: Niche books for academics. Voz Lirayne owns with Calmont as her apprentice.
 
-Roleplaying: Tyler is free as of two years from Ravounel. Gus and Asamer came on caravan. Fable is from Breachill.
+Roleplaying: Tyler is free as of two years from Ravounel. Gus and Asemar came on caravan. Fable is from Breachill.
 
 Guard: Voz has been on leave for a week according to the neighbor on the right, Shelly.
 
@@ -53,7 +53,7 @@ Fable attempts to steal from Trini (Council member). Gets caught by Trini and he
 
 Hal sneaks in to the storage room and finds Trini as he’s leaving after trying to leave money. Trini knows that Hal is bleaching ( Aging quickly ).
 
-Asamer eats stew.
+Asemar eats stew.
 
 Gus tries to corral everyone into pulling an all-nighter. Does so and gets info for us to go to Quarters and Bits.
 
@@ -79,11 +79,11 @@ Doors ajar to Hellknight Hill. Not surprising since it is abandoned except by th
 
 Need to go inside to go to top of citadel. We climb the brambles surrounding Hellknight Hill to get up into the citadel.
 
-Met  Hell Knight from Order of the First Nail. Armiger Alak Stagram was injured by Imps in the Citadel. Order of the First Nail typically worships Asmodeus. I healed him and he heads back to breachill. His signet ring is missing. Hal said he will find it.
+Met  Hell Knight from Order of the First Nail. Armiger Alak Stagram was injured by Imps in the Citadel. Order of the First Nail typically worships Asmodeus. I healed him and he heads back to Breachill. His signet ring is missing. Hal said he will find it.
 
 ### Session 1 XP
 
-- 10      Helping Quentino and Warbel
+- 10      Helping Quintino and Warble
 - 80     Fire Mephit x2
 - 100   Rescuing the townspeople
 - 20     Putting out the town hall (6 turns)
@@ -328,7 +328,7 @@ A devil room with texts and reagents for summoning devils.
 
 ### Main Corridor
 
-We encounter three birds. Combat! The emperor birds hit fucking hard! Stairs lead to where Grouladons collapsed upper level.
+We encounter three birds. Combat! The emperor birds hit fucking hard! Stairs lead to where Grauladons collapsed upper level.
 
 ### Dungeon Hall #1
 
@@ -343,16 +343,16 @@ We find Boggards who we attack because they looked threatening. We tie them up a
 
 ### Session 4 XP
 
-- 60        Giant Bat
-- 50        Warg
-- 40        Imp
-- 60        Giant Rat x3
-- 10          Spear Trap
-- 100       Order of the Nail Lore + Clearing Ground Level
-- 120        Emperor Bird x3
-- 80          Boggard Warrior x2
-- 520        Session Total
-- 260        Level 2 Total
+- 60    Giant Bat
+- 50    Worg
+- 40    Imp
+- 60    Giant Rat x3
+- 10    Spear Trap
+- 100   Order of the Nail Lore + Clearing Ground Level
+- 120   Emperor Bird x3
+- 80    Boggard Warrior x2
+- 520   Session Total
+- 260   Level 2 Total
 
 # Session 5
 
@@ -572,7 +572,7 @@ Quintino also happens to be in the store and Fable pickpockets him and gets some
 
 ### Hal meanders around the city
 
-He finds himself passing the Pickled Ear, Morta's Mortuary, and Breach Creek Lumber. Lumberjacks are struggling with goblin's at the edge of the Crimsontide Wood getting in the way and chicken monsters deeper in the fwood who have invaded their lumber harvesting locations. Hal also finds a bounty for the chicken monster at Breach Creek.
+He finds himself passing the Pickled Ear, Morta's Mortuary, and Breach Creek Lumber. Lumberjacks are struggling with goblin's at the edge of the Crimsontide Wood getting in the way and chicken monsters deeper in the wood who have invaded their lumber harvesting locations. Hal also finds a bounty for the chicken monster at Breach Creek.
 
 A tradesman mentions they've lost some people to the chicken monster, and that they can use help. Hal says the Halcyon Brigade may get to it after our current affairs.
 
@@ -647,9 +647,9 @@ The kobold is throwing bodies into the bear room. **COMBAT!**
 
 The kobold yells, "Pibb!" and gets the attention of the other kobold.
 
-We leave the green kobold dying and Pibb surrenders. Hal negotiates in draconic and Pibb is compliant. He tells Hal that he is feeding Bumble the bear. This is his home. Zarf and he have been there since they were little kobolds. They came here and have lived in peace with the Bramblebashers. The boggards and the Charau-ka. The boggards brought the Grouladons with them from the basement up the stairs that are collapsed. Pibb does not know what an Elf Gate is. The bear is the Bramblebashers pet and Pibb was feeding him. Gus recalls the Bramblebashers mentioning Big Bumble the bear.
+We leave the green kobold dying and Pibb surrenders. Hal negotiates in draconic and Pibb is compliant. He tells Hal that he is feeding Bumble the bear. This is his home. Zarf and he have been there since they were little kobolds. They came here and have lived in peace with the Bramblebashers. The boggards and the Charau-ka. The boggards brought the Grauladons with them from the basement up the stairs that are collapsed. Pibb does not know what an Elf Gate is. The bear is the Bramblebashers pet and Pibb was feeding him. Gus recalls the Bramblebashers mentioning Big Bumble the bear.
 
-Gus uses meat and excellent roleplaying to try and lure Big Bumble out of the room. We succeed! We search Bumble's room and there isn't really anything of note. We set Bumble free into the forest. He does the sad look back. The koboolds do the same thing as we send them off to the Bramblebashers.
+Gus uses meat and excellent roleplaying to try and lure Big Bumble out of the room. We succeed! We search Bumble's room and there isn't really anything of note. We set Bumble free into the forest. He does the sad look back. The kobolds do the same thing as we send them off to the Bramblebashers.
 
 ### Secret Tunnel
 
@@ -701,13 +701,13 @@ Mo' read that there are two prevailing schools of thought on Lamond Breachton.
 
 Secrets book: Lamond is an egomaniacal wizard who tried to enslave everyone, wiped their memory, and started the town.
 
-Liberty Book: Lamond was a visioanry who led the farmers to build the city of Breachill.
+Liberty Book: Lamond was a visionary who led the farmers to build the city of Breachill.
 
 Voz's Notes: Rebuke Breachton and the dumb townsfolk.
 
 ### Town Hall
 
-We presented the information to the council. There isn't enough information to go after Roxi, Posandi Bros, or quintino.
+We presented the information to the council. There isn't enough information to go after Roxi, Posandi Bros, or Quintino.
 
 ## Hellknight Hill Interior
 
@@ -726,7 +726,7 @@ We loot the tombs
 
 - 160    Pib, Zarf, Bumble and tying up various loose ends in the basement floors
 - 40     Explosive barrels trap
-- 10      Laying the beatdown on some cooks
+- 10      Laying the beat down on some cooks
 - 100    Handling of matters at the Pickled Ear
 - 20      Uncovering some mysteries of Breachill
 - 330    Session 7 Total
@@ -778,7 +778,7 @@ We tie all of them up in the cabin and heal ourselves.
 
 Note is a proof of payment from Voz to the Blood Blade mercenaries for 600 SP.
 
-We interrogate the Hobogoblin. Voz has a group of skeletons with her normally and she pays well. The Goblins and Orcs live here. They haven't ventured far into the cave. It's full of crawly things. They come here once every three weeks. Voz came by 3 or 4 days ago and offered them the silver.
+We interrogate the Hobgoblin. Voz has a group of skeletons with her normally and she pays well. The Goblins and Orcs live here. They haven't ventured far into the cave. It's full of crawly things. They come here once every three weeks. Voz came by 3 or 4 days ago and offered them the silver.
 
 There is an Isger bounty on the Blood Blade mercenaries for raiding caravans.
 
@@ -967,7 +967,7 @@ Back in the cave we mission impossible fable into the hole below. Fable yells wh
 
 ### Elfgate
 
-There are 6 elves (Alesta, Yeral, Desna, Ketapes, Calistra, Findilara) facing outward from an empty fountain. There are six different archways each with a different decor. One is collapsed, but they are all featureless panes of polished stone in the archways. Archways are ancient Iudaras. Hal knows one must touch a portal with a key to trigger the archway to lead to a passage to the gateway destination.
+There are 6 elves (Alesta, Yuelral, Desna, Ketephys, Calistra, Findilara) facing outward from an empty fountain. There are six different archways each with a different decor. One is collapsed, but they are all featureless panes of polished stone in the archways. Archways are ancient Aiudaras. Hal knows one must touch a portal with a key to trigger the archway to lead to a passage to the gateway destination.
 
 #### Room Loot
 
@@ -979,11 +979,11 @@ There are 6 elves (Alesta, Yeral, Desna, Ketapes, Calistra, Findilara) facing ou
 - +1 Striking Red-dragonscaled Spiked "Cinderclaw" Gauntlet (1d6 fire on critical) - Asemar
 - Large Golden "Hunter's" Arrowhead of Ketapes - Angela
 
-Alesta is the god of doors. Symbol is a lotus. Iudara destroyed.
+Alesta is the god of doors. Symbol is a lotus. Aiudara destroyed.
 
 Ketapes has moons and Hawks on it. Southwest
 
-Crystal decor. Archway has stalactites and iconography of Yeral
+Crystal decor. Archway has stalactites and iconography of Yuelral
 
 Sunset decor for Findilara.
 
@@ -993,7 +993,7 @@ Wasps, wisps, and wave decor for Calistra. West
 
 Double doors at the top. The elf statues say "The custodian of Alesta's ring lies beyond. Only those who possess the symbol of Alesta may pass." in Elven.
 
-Fable touches the arrowhead to  Ketapes's door. It flashes and radiates. Then turns back to solid stone. Hal knows the portal is malfunctioning and must be repaired. It leads to the Mwangi Expanse,
+Fable touches the arrowhead to  Ketephys's door. It flashes and radiates. Then turns back to solid stone. Hal knows the portal is malfunctioning and must be repaired. It leads to the Mwangi Expanse,
 
 Mo' knows this will require help from stonemasons. Hal wishes to fix the fountain as well.
 
@@ -1031,7 +1031,7 @@ We talk to Roxie and get rooms at The Pickled Ear for free. Hal manages to get R
 
 ### Breachill Townhall
 
-We go in to talk to Greta and Trini about the Elfgate in the citadel. There is no damning evidence on Voz, but Hal informs them of Renali and how denizens of the Mwangi expanse traveled through the portal. Hal talks of the Barghest, the ancient Iudara, and how we cannot enter most of them. Gus produces the deed to the citadel and asks for legal advice regarding it. Greta informs us that it is ours to keep. Hal asks for help funding the renovations of the citadel, Greta says they will help with tax funds best they can, but they cannot fully renovate the citadel.
+We go in to talk to Greta and Trini about the Elfgate in the citadel. There is no damning evidence on Voz, but Hal informs them of Renali and how denizens of the Mwangi expanse traveled through the portal. Hal talks of the Barghest, the ancient Aiudara, and how we cannot enter most of them. Gus produces the deed to the citadel and asks for legal advice regarding it. Greta informs us that it is ours to keep. Hal asks for help funding the renovations of the citadel, Greta says they will help with tax funds best they can, but they cannot fully renovate the citadel.
 
 Greta INFORMS US THAT Voz has made a statement regarding her sentencing. Calmont acted alone with information stoledn from her. She has investigated Hellknight Hill for many months on her own dime, only to have it undone by a disgruntled employee and some vigilantes. She is throwing herself on thegoodwill of the people. Calmont has stated she orchestrated eveything. Mo' brings up that she was funded by the Scarlet Triad and was to use money to start a necromance school on the citadel. Mo' hands over Voz's Journal to Greta to help with the trial. Gus asks for more money, and Greta says she and her scribe will work out an amount for the citadel.
 
@@ -1164,6 +1164,7 @@ Mo' knows devil summoning is Hellknight kindergarten.
 We approach her and Gus attempts to detain her. **Combat!**
 
 ### Disnael Loot
+
 - 1 Hellknight Full Plate
 - +1 Striking Whip
 - +1 Striking Longsword
@@ -1188,7 +1189,7 @@ Hal tells Greta and Trini they are once again indebted to The Halcyon Brigade. W
 
 Quintino enters the room and is imeediately defensive. He says Amera did something out of line and he is here to explain, we kick him out. We say Amera wrote to Elidir. Greta says Amera was upset The Posandi Bros lost out on the rennovation business. Greta didn't know she would go that far. Greta says we should reign in our focus on protecting the town. Trini says she trusts us.
 
-Hal says the Iudara is bridged by a demiplane. He thinks he has a solution to fix the gates once they are physically repaired.
+Hal says the Aiudara is bridged by a demiplane. He thinks he has a solution to fix the gates once they are physically repaired.
 
 We invite Quintino back in. He assures us Amera acted on her own behalf. She recently left town and he had no idea of her actions. He will happily relinquish his position on the town council and he will gladly answer any questions we have. He says the closest town is Elidir, so Amera could have fled to there, but is unsure. A faction of eight left Posandi Bros with Amera. They were worried about future work loss. Mo' brings up that there were supplies at Posandi Bros. forensically matching that found at the citadel. He postulates that Amera could've been doing devilry there for awhile and knows that Amera has had interest in the occult. He also states workers of The Posandi Bros have made trips to the citadel as well. Mo' says that Greta should nominate an independant party to go through the documents, manifests, and accounts to figure out how long Amera has been doing this. She agrees, and as Quinntino steps down, Greta needs another council member. Mo' nominates Warble of the Bramblebashers, and Trini agrees. We then get 75GP from Greta's assistant, Sheila to fund our adventures.
 
@@ -1200,7 +1201,7 @@ Mo' tells Jorell that Disnael has been defeated, he should not worry about any m
 
 ## Citadel
 
-### Iudara Chamber
+### Aiudara Chamber
 
 We work on the portal, Hal fails his check, and because of that Mo' and Hal take 28 points of damage.
 
@@ -1208,7 +1209,7 @@ We do this a couple more times after moving a table in front of the portal, and 
 
 The gate is now repaired and it is an action to activate and deactivate.
 
-This is Ketapes's gate and it leads to the Mwangi Expanse.
+This is Ketephys's gate and it leads to the Mwangi Expanse.
 
 Gus gets Renali and she comes to the portal.
 
@@ -1216,6 +1217,69 @@ We rest, gather supplies, tell the council, and Fable tells Rorsk and leaves mon
 
 We go through the tunnel.
 
-## Demiplane between portals.
+## Demiplane between portals
 
 We see a dilapidated bridge, red earth, gray ash, red, and white smoke. No fresh fires. It looks like a dragon has been through here.
+
+## Session 13 XP
+
+- 60    for fixing Huntergate
+- 120   Order of the Rack Hellknight
+- 40    Town Hall roleplay
+- 100   Renovation issues side quest
+
+# Session 14
+
+## Demiplane between worlds
+
+A fire dragon manifestation attacks us as we cross the bridge. **Combat!**
+
+We run as fast as we can across the bridge as the gargantuan fire dragon comes at us. Gus cusses at everyone for not running fast enough. The vision of Dahak flies over us and breathes fire on us.
+
+## Mwangi Expanse
+
+### Ketephys Temple
+
+We go through the portal and are at a humid air temple. It is singed and all the flora is burned. There is a wooden pillar in the center with iconography of Dahak. We go through the Hunter's gate near the center. There are ~25 Elves pointing bows at us. Mo' says we come in peace in Elvish. Gus steps in front of Mo' and says the same thing, but worse.
+
+The elves wear tribal adornments akin to the Wakandanese of Black Panther.
+
+An Elf approaches us. He says he is Jahasi of the Leopard Clan. His mother is of the River tribe. Mo' recognizes them as the Ekujae. Jungle Elves who keep to themselves and do not like trespassers. they are on the Northwestern edge of the Mwangi Expanse. They are typically between chaotic neutral and true good. They are very skilled in magic. They worship many gods, but Ketephys in particular. They are built of different clans that make up their society. Mo' says we are of the Halcyon Brigade. We were attacked by the Cinderclaws. Are the elves with the Cinderclaws? Jahasi says they are not. They were attacked and had to flee. We do not know what percentage of the Cinderclaws we faced, and is there a place we can talk about this? Everyone lowers their weapons. Jahasi wants to plan festivities. This is their temple, but they live in a village a few miles North. He whistles and it is met by bird calls. We agree to travel with him to the village.
+
+At the base of the wooden totem of Dahak are gold bars. The gold looks strange and shimmers. Fable decides not to steal the gold bars. Jahasi says the totem is to represent the long darkness when they fought Dahak and nearly defeated him. Gus asks for gold and Jahasi sternly looks at him and tells him not to touch it. Mo' tries to socially recover, but Gus doubles down by asking if they worship Dahak. Jahasi lets it slide and Fable calls Gus an old drunk.
+
+We have a group of Elves traveling with us. They do not talk to Gus, but they give a sign of respect to Asemar. They are very curious of Mo' and try to inspect him. Mo' asks if they need something, and they walk away.
+
+Asemar asks Jahasi why the Evles are showing Asemar respect, and it's because Orcs have demon hunter rep in the Mwangi Expanse.
+
+Jahasi asks about Isger, and Mo' says that we are in a recently oppressed nation, and Jahasi sympathizes. Akrivel is the name of their home village and the temple is a temple of Ketephys, 10 mile south of Akrivel.
+
+### Akrivel
+
+Akrivel is a giant tree with vine bridges going across the canopy for hundreds of miles in every direction. The tree trunks are over 10 feet wide and the roots are arranged to from pictures of elephants and such. There are a ton of fruit trees and platforms. We are greeted by a lady with a bronze staff with a leopard head and a sword in his jaws at the top, and her other arm is made of wood. She is Nikita of the leopard clan. Her mother is of the Stargazer clan. We are guests of the Ekujae tonight. We go with Nikita to the top of the giant canopy.
+
+They tell us to make ourselves at home, while they prepare the festivities. The villagers defer to Nikita. Gus gets permissions to heal us.
+
+Mo' and Gus hear that the young elves want to challenge the outsiders to a dancing game. We all join in. We beat those kids down.
+
+There is a lion on the outskirts of the tree, but no one seems to mind.
+
+Fable and Gus go with Akosa, leader of the hunt, to go hunt for the feast.
+
+### Feast hunt
+
+They find some tracks for river boars and track them to a river clearing. Acosta tells them to get into position. **Combat!**
+
+They painlessly down a boar and Gus and Fable high-five!
+
+### Feast Gather
+
+Mo' and Asemar go with the female elves and children to gather peppers and berries. A child challenges Mo' to eat a pepper. He eats 2. Asemar, not to be outdone, eats 3 peppers. Unaffected. He eats a smaller, hotter pepper. There is a final pepper, Asemar is destroyed. Mo' manages to cover it up, but they can tell it burns. The adults offer us vials of hot sauce, and Mo' downs one. He is sick, but they are vials of antiparalysis.
+
+### Hal and the Lion
+
+Hal stares at Harriet the Lion for 15 minutes. Jahasi notices and informs Hal of the lion's name. She lives around the town and the children love her. Hal says he's never seen one, and says they are like more svelte bears, and then describes a bear to Jahasi. Hal asks why the Ekujae are afraid of him, and it's because of his dragon blood. They trust Hal not to harm them though. Jahasi offers to Hal to get Harriet's approval. He approaches her on the branch, and she accepts Hal. Hal gets to close and she walks away.
+
+### Akrivel
+
+Everyone comes back, and we prepare for the feast!
