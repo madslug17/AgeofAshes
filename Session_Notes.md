@@ -1283,3 +1283,58 @@ Hal stares at Harriet the Lion for 15 minutes. Jahasi notices and informs Hal of
 ### Akrivel
 
 Everyone comes back, and we prepare for the feast!
+
+# Session 15
+
+## Mwangi Expanse
+
+### Akrivel
+
+They tell of how they beat Dahak.
+
+Fable talks about how she was adopted by Rorsk Axebane and how she joined the Halcyon Brigade and thanks the elves for hosting us.
+
+Asemar ponders how to improve dancing while Mo' focuses on the kitchen.
+
+Gus talks of the hellknights in our region, and one elf seems to know what he's talking about. Gus confronts him about it after and finds the Chelaxians have a long reach and he encountered something similar and became a slave himself. He doesn't wanna talk about it. He drinks with him.
+
+Fable joins a dance battle with Asemar.
+
+The leaders decide to test Hal''s mettle and challenge him to a duel. He loses.
+
+Gus and Asemar try and help Hal commune with the lion with no avail. 
+
+The leader tells of a group of scouts who came back blind.
+
+We get a bunch of exploring gear and leave back to the temple the next day.
+
+### Ketephys Temple
+
+We get back to the temple and Fable takes the gold. Something unknown happens to her.
+
+The totem comes alive and we fight it. It tries to blind us and we defeat it.
+
+# Session 16
+
+## Mwangi Expanse
+
+### Ketephys Temple
+
+We are at the base of the deactivated totem.
+
+We hear something flying around so we sneak into a tree. Dahak's chosen Charau-ka attacks with other Charau-kas. **Combat!**
+
+We defeat it. Hal knows that it got infused somehow with draconic powers, and it is not the only one. Maybe due to an accident or a side effect from powerful magic.
+
+#### Dragon Baboon Loot
+
+- Hatchet
+- Clothes
+
+We make camp and sleep!
+
+We move one hexagon south from the Dahak totem.
+
+We enter a forest so thick the canopy blocks all of the light. We find a bunch of dead Gripplis and large spiderwebs in this dark forest. We see dream spiders and enter **combat!**
+
+Gripplis are rolling. We gotta get them out of here!

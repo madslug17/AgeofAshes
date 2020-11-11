@@ -8,7 +8,7 @@
 
  Name:       Mogridy
  Race:       Goblin
- Class:      Alchemist 3
+ Class:      Alchemist 5
  Background: Out-of-Towner
  Size:       Small
  Deity:      Norgorber
@@ -20,68 +20,70 @@
 
 # Vitals
 
- HP:       42
+ HP:       56
  Damage:   0
- AC (t):   22 = 3 + 6 + 3
- Fort (e): 9 =  1 + 8
- Ref (e):  11 =  3 + 8
- Will (t): 5 = -1 + 6
+ AC (t):   23 = 3 + 7 + 3
+ Fort (e): 11 =  2 + 9
+ Ref (e):  13 =  4 + 9
+ Will (t): 6 = -1 + 7
 
-## Perception: 5 = -1 + 6
+## Perception: 6 = -1 + 7
 
-## Class DC(t): 20 = 10 + 4 + 6
+## Class DC(t): 21 = 10 + 4 + 7
 
 # Combat
 
 ## Blowgun
 
-+ 9 = 3 + 6
++ 11 = 4 + 7
  1 Damage
  Range 20ft
 
 ## Alchemical Bomb
 
-+ 9 = 3 + 6
++ 11 = 4 + 7
  Range 20ft
 
 ## +1 Dagger
 
-+ 7 = 0 + 6 + 1
- 1D4 + 1
++ 9 = 1 + 7 + 1
+ 1D4 + 2
 
 ## Sling
 
-+ 9 = 3 + 6
- 1D6 + 0
++ 11 = 4 + 7
+ 1D6 + 1
  Range 50ft
 
 # Alchemy
 
-## 8 items per day
+## 10 items per day
 
 ## Known Recipes
 
-- 2 Alchemist's Fire, Moderate
+- 1 Alchemist's Fire, Moderate
 -   Acid Flask, Moderate
-- 4 Elixir of Life, Minor
+- 8 Elixir of Life, Lesser
 -   Giant Centipede Poison
-- 2 Smoke Stick
--   Antidote
--   Tanglefoot Bag, Moderate
+- 0 Smoke Stick
+-   Antidotes
+- 2 Tanglefoot Bag, Moderate
 -   Arsenic
 -   Origin Unguent
--   Lethargy Poison
+- 6 Lethargy Poison
 -   Ghost Charge, Moderate
 -   Forensic Dye
-- 2 Infiltrator's Elixir
+- 0 Infiltrator's Elixir
 - 6 Cytillesh Oil
+- 0 False Death
+- 0 Bookthief Brew
 
 # Attributes
 
-STR 10 -
-DEX 16 +3
-CON 12 +1
-INT 18 +4
+STR 12 +1
+DEX 18 +4
+CON 14 +2
+INT 19 +4
 WIS 8  -1
 CHA 14 +2
 
@@ -89,6 +91,7 @@ CHA 14 +2
 
 - Irongut Goblin
 - City Scavenger
+- Goblin Scuttle
 - Hobnobber
 - Alchemy
 - Toxicologist
@@ -98,19 +101,20 @@ CHA 14 +2
 - Glean Contents
 - Tenacious Toxins
 - Multilingual (Elven, Necril)
+- Toxicologist Field Discovery (prepare 3 poisons ahead of time)
 
 # Skills
 
-- Acrobatics(t):      9 =  3 + 6
-- Crafting(t):        10 =  4 + 6
-- Deception(t):       8 =  2 + 6
-- Diplomacy(t):       8 =  2 + 6
-- Underworld Lore(t): 10 =  4 + 6
-- Goblin Lore(t):     10 =  4 + 6
-- Society(t):         12 =  4 + 8
-- Stealth(t):         9 =  3 + 6
-- Survival(t):        5 = -1 + 6
-- Thievery(t):        9 =  3 + 6
+- Acrobatics(t):      11 =  4 + 7
+- Crafting(e):        13 =  4 + 9
+- Deception(t):       9 =  2 + 7
+- Diplomacy(t):       9 =  2 + 7
+- Underworld Lore(t): 11 =  4 + 7
+- Goblin Lore(t):     11 =  4 + 7
+- Society(e):         13 =  4 + 9
+- Stealth(t):         11 =  4 + 7
+- Survival(t):        6 = -1 + 7
+- Thievery(t):        11 =  4 + 7
 
 ## Languages
 
