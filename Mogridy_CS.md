@@ -20,63 +20,65 @@
 
 # Vitals
 
- HP:       56
- Damage:   0
- AC (t):   23 = 3 + 7 + 3
- Fort (e): 11 =  2 + 9
- Ref (e):  13 =  4 + 9
- Will (t): 6 = -1 + 7
+ HP:       66
+ Damage:   18
+ AC (t):   24 = 3 + 8 + 3
+ Fort (e): 12 =  2 + 10
+ Ref (e):  14 =  4 + 10
+ Will (t): 7 = -1 + 8
 
-## Perception: 6 = -1 + 7
+## Perception: 7 = -1 + 8
 
-## Class DC(t): 21 = 10 + 4 + 7
+## Class DC(t): 22 = 10 + 4 + 8
 
 # Combat
 
 ## Blowgun
 
-+ 11 = 4 + 7
++ 12 = 4 + 8
  1 Damage
  Range 20ft
 
 ## Alchemical Bomb
 
-+ 11 = 4 + 7
++ 12 = 4 + 8
  Range 20ft
 
 ## +1 Dagger
 
-+ 9 = 1 + 7 + 1
++ 10 = 1 + 8 + 1
  1D4 + 2
 
 ## Sling
 
-+ 11 = 4 + 7
++ 12 = 4 + 8
  1D6 + 1
  Range 50ft
 
 # Alchemy
 
-## 10 items per day
+## 12 items per day
 
 ## Known Recipes
 
-- 1 Alchemist's Fire, Moderate
--   Acid Flask, Moderate
+- 2 Alchemist's Fire, Moderate
+- 2 Acid Flask, Moderate
 - 8 Elixir of Life, Lesser
 -   Giant Centipede Poison
 - 0 Smoke Stick
--   Antidotes
-- 2 Tanglefoot Bag, Moderate
+-   Antidote
+-   Tanglefoot Bag, Moderate
 -   Arsenic
 -   Origin Unguent
-- 6 Lethargy Poison
+-   Lethargy Poison
 -   Ghost Charge, Moderate
 -   Forensic Dye
 - 0 Infiltrator's Elixir
 - 6 Cytillesh Oil
 - 0 False Death
 - 0 Bookthief Brew
+- 4 Cold Iron Blanch
+- 9 Giant Scorpion Venom
 
 # Attributes
 
@@ -102,23 +104,25 @@ CHA 14 +2
 - Tenacious Toxins
 - Multilingual (Elven, Necril)
 - Toxicologist Field Discovery (prepare 3 poisons ahead of time)
+- Sticky Poison
+- Multilingual (Mwangi, Infernal)
 
 # Skills
 
-- Acrobatics(t):      11 =  4 + 7
-- Crafting(e):        13 =  4 + 9
-- Deception(t):       9 =  2 + 7
-- Diplomacy(t):       9 =  2 + 7
-- Underworld Lore(t): 11 =  4 + 7
-- Goblin Lore(t):     11 =  4 + 7
-- Society(e):         13 =  4 + 9
-- Stealth(t):         11 =  4 + 7
-- Survival(t):        6 = -1 + 7
-- Thievery(t):        11 =  4 + 7
+- Acrobatics(t):      12 =  4 + 8
+- Crafting(e):        14 =  4 + 10
+- Deception(t):       10 =  2 + 8
+- Diplomacy(t):       10 =  2 + 8
+- Underworld Lore(t): 12 =  4 + 8
+- Goblin Lore(t):     12 =  4 + 8
+- Society(e):         14 =  4 + 10
+- Stealth(t):         12 =  4 + 8
+- Survival(t):        7 = -1 + 8
+- Thievery(t):        12 =  4 + 8
 
 ## Languages
 
-- Common, Goblin, Draconic, Gnoll, Gnomish, Dwarven, Elven, Necril
+- Common, Goblin, Draconic, Gnoll, Gnomish, Dwarven, Elven, Necril, Mwangi, Infernal
 
 # Inventory
 
@@ -155,7 +159,7 @@ CHA 14 +2
 - Potion of Retaliation, lesser (Type fire)
 - Unidentified Masonry items
 - Invisibility Potion
-- Vial of Gelatinous Cube slime x 6
+- Vial of Gelatinous Cube slime x 5
 - Vial of tunnel dirt
 - Blood Blade Mercenaries Receipt
 - +1 Dagger
@@ -167,8 +171,11 @@ CHA 14 +2
 - Deed to Helknight Hill
 - Disnael's Letter
 - Vial of antiparalysis hot sauce x 4
+- Sharinga Sap vial x 15
+- Sharinga Sap bulk 1 (Fable)
+- Sharinga Sap vial 4 (Gus)
 
-## Bulk: 5
+## Bulk: 6
 
 ## GP: 114
 
