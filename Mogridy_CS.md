@@ -8,7 +8,7 @@
 
  Name:       Mogridy
  Race:       Goblin
- Class:      Alchemist 5
+ Class:      Alchemist 6
  Background: Out-of-Towner
  Size:       Small
  Deity:      Norgorber
@@ -21,7 +21,7 @@
 # Vitals
 
  HP:       66
- Damage:   18
+ Damage:   0
  AC (t):   24 = 3 + 8 + 3
  Fort (e): 12 =  2 + 10
  Ref (e):  14 =  4 + 10
@@ -44,10 +44,10 @@
 + 12 = 4 + 8
  Range 20ft
 
-## +1 Dagger
+## +1 Striking Dagger
 
 + 10 = 1 + 8 + 1
- 1D4 + 2
+ 2D4 + 2
 
 ## Sling
 
@@ -61,7 +61,7 @@
 
 ## Known Recipes
 
-- 2 Alchemist's Fire, Moderate
+- 0 Alchemist's Fire, Moderate
 - 2 Acid Flask, Moderate
 - 8 Elixir of Life, Lesser
 -   Giant Centipede Poison
@@ -162,7 +162,7 @@ CHA 14 +2
 - Vial of Gelatinous Cube slime x 5
 - Vial of tunnel dirt
 - Blood Blade Mercenaries Receipt
-- +1 Dagger
+- +1 Striking Dagger
 - Voz's Notes translated to Common
 - Pendant of Norgorber
 - +1 Leather Armor
@@ -174,6 +174,12 @@ CHA 14 +2
 - Sharinga Sap vial x 15
 - Sharinga Sap bulk 1 (Fable)
 - Sharinga Sap vial 4 (Gus)
+- vial of unknown stuff x 4
+- Unknown stuff x 3
+- Notes for unknown things x 3
+- Unknown thing
+- +1 Antidote
+
 
 ## Bulk: 6
 
