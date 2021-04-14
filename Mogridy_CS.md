@@ -8,7 +8,7 @@
 
  Name:       Mogridy
  Race:       Goblin
- Class:      Alchemist 7
+ Class:      Alchemist 8
  Background: Out-of-Towner
  Size:       Small
  Deity:      Norgorber
@@ -20,44 +20,44 @@
 
 # Vitals
 
- HP:       77
+ HP:       87
  Damage:   0
- AC (t):   25 = 3 + 9 + 3
- Fort (e): 13 =  2 + 11
- Ref (e):  15 =  4 + 11
- Will (t): 10 = -1 + 11
+ AC (t):   26 = 3 + 10 + 3
+ Fort (e): 14 =  2 + 12
+ Ref (e):  16 =  4 + 12
+ Will (t): 11 = -1 + 12
 
-## Perception: 8 = -1 + 9
+## Perception: 9 = -1 + 10
 
-## Class DC(t): 23 = 10 + 4 + 9
+## Class DC(t): 24 = 10 + 4 + 10
 
 # Combat
 
 ## Blowgun
 
-+ 15 = 4 + 11
++ 16 = 4 + 12
  1 Damage
  Range 20ft
 
 ## Alchemical Bomb
 
-+ 15 = 4 + 11
++ 17 = 4 + 12 + 1
  Range 20ft
 
 ## +1 Striking Dagger
 
-+ 13 = 1 + 11 + 1
++ 14 = 1 + 12 + 1
  2D4 + 2
 
 ## Sling
 
-+ 15 = 4 + 11
++ 16 = 4 + 12
  1D6 + 1
  Range 50ft
 
 # Alchemy
 
-## 14 items per day
+## 16 items per day
 
 ## Known Recipes
 
@@ -66,7 +66,7 @@
 - 8 Elixir of Life, Lesser
 -   INFINITE Giant Centipede Poison
 -   INFINITE Arsenic
-- 0 Smoke Stick
+- 2 Smoke Stick
 -   Antidote
 - 4 Tanglefoot Bag, Moderate
 -   Arsenic
@@ -79,7 +79,9 @@
 - 0 False Death
 - 0 Bookthief Brew
 - 4 Cold Iron Blanch
-- 9 Giant Scorpion Venom
+- 0 Giant Scorpion Venom
+- 9 Wyvern Poison
+- 3 Nettleweed Residue
 
 # Attributes
 
@@ -108,19 +110,21 @@ CHA 14 +2
 - Sticky Poison
 - Multilingual (Mwangi, Infernal)
 - Prescient Consumable
+- Pinpoint Poisoner
+- Biographical Eye
 
 # Skills
 
-- Acrobatics(t):      13 =  4 + 9
-- Crafting(e):        15 =  4 + 11
-- Deception(t):       11 =  2 + 9
-- Diplomacy(t):       11 =  2 + 9
-- Underworld Lore(t): 13 =  4 + 9
-- Goblin Lore(t):     13 =  4 + 9
-- Society(m):         17 =  4 + 13
-- Stealth(t):         13 =  4 + 9
-- Survival(t):        8 = -1 + 9
-- Thievery(t):        13 =  4 + 9
+- Acrobatics(t):      14 =  4 + 10
+- Crafting(e):        16 =  4 + 12
+- Deception(t):       12 =  2 + 10
+- Diplomacy(t):       12 =  2 + 10
+- Underworld Lore(t): 14 =  4 + 10
+- Goblin Lore(t):     14 =  4 + 10
+- Society(m):         18 =  4 + 14
+- Stealth(t):         14 =  4 + 10
+- Survival(t):        9 = -1 + 10
+- Thievery(t):        14 =  4 + 10
 
 ## Languages
 
