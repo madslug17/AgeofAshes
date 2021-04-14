@@ -8,7 +8,7 @@
 
  Name:       Mogridy
  Race:       Goblin
- Class:      Alchemist 6
+ Class:      Alchemist 7
  Background: Out-of-Towner
  Size:       Small
  Deity:      Norgorber
@@ -20,61 +20,62 @@
 
 # Vitals
 
- HP:       66
+ HP:       77
  Damage:   0
- AC (t):   24 = 3 + 8 + 3
- Fort (e): 12 =  2 + 10
- Ref (e):  14 =  4 + 10
- Will (t): 7 = -1 + 8
+ AC (t):   25 = 3 + 9 + 3
+ Fort (e): 13 =  2 + 11
+ Ref (e):  15 =  4 + 11
+ Will (t): 10 = -1 + 11
 
-## Perception: 7 = -1 + 8
+## Perception: 8 = -1 + 9
 
-## Class DC(t): 22 = 10 + 4 + 8
+## Class DC(t): 23 = 10 + 4 + 9
 
 # Combat
 
 ## Blowgun
 
-+ 12 = 4 + 8
++ 15 = 4 + 11
  1 Damage
  Range 20ft
 
 ## Alchemical Bomb
 
-+ 12 = 4 + 8
++ 15 = 4 + 11
  Range 20ft
 
 ## +1 Striking Dagger
 
-+ 10 = 1 + 8 + 1
++ 13 = 1 + 11 + 1
  2D4 + 2
 
 ## Sling
 
-+ 12 = 4 + 8
++ 15 = 4 + 11
  1D6 + 1
  Range 50ft
 
 # Alchemy
 
-## 12 items per day
+## 14 items per day
 
 ## Known Recipes
 
-- 0 Alchemist's Fire, Moderate
+- 2 Alchemist's Fire, Moderate
 - 2 Acid Flask, Moderate
 - 8 Elixir of Life, Lesser
--   Giant Centipede Poison
+-   INFINITE Giant Centipede Poison
+-   INFINITE Arsenic
 - 0 Smoke Stick
 -   Antidote
--   Tanglefoot Bag, Moderate
+- 4 Tanglefoot Bag, Moderate
 -   Arsenic
 -   Origin Unguent
 -   Lethargy Poison
--   Ghost Charge, Moderate
+- 0 Ghost Charge, Moderate
 -   Forensic Dye
 - 0 Infiltrator's Elixir
-- 6 Cytillesh Oil
+- 0 Cytillesh Oil
 - 0 False Death
 - 0 Bookthief Brew
 - 4 Cold Iron Blanch
@@ -93,7 +94,7 @@ CHA 14 +2
 
 - Irongut Goblin
 - City Scavenger
-- Goblin Scuttle
+- Precient Planner
 - Hobnobber
 - Alchemy
 - Toxicologist
@@ -106,19 +107,20 @@ CHA 14 +2
 - Toxicologist Field Discovery (prepare 3 poisons ahead of time)
 - Sticky Poison
 - Multilingual (Mwangi, Infernal)
+- Prescient Consumable
 
 # Skills
 
-- Acrobatics(t):      12 =  4 + 8
-- Crafting(e):        14 =  4 + 10
-- Deception(t):       10 =  2 + 8
-- Diplomacy(t):       10 =  2 + 8
-- Underworld Lore(t): 12 =  4 + 8
-- Goblin Lore(t):     12 =  4 + 8
-- Society(e):         14 =  4 + 10
-- Stealth(t):         12 =  4 + 8
-- Survival(t):        7 = -1 + 8
-- Thievery(t):        12 =  4 + 8
+- Acrobatics(t):      13 =  4 + 9
+- Crafting(e):        15 =  4 + 11
+- Deception(t):       11 =  2 + 9
+- Diplomacy(t):       11 =  2 + 9
+- Underworld Lore(t): 13 =  4 + 9
+- Goblin Lore(t):     13 =  4 + 9
+- Society(m):         17 =  4 + 13
+- Stealth(t):         13 =  4 + 9
+- Survival(t):        8 = -1 + 9
+- Thievery(t):        13 =  4 + 9
 
 ## Languages
 
@@ -148,7 +150,6 @@ CHA 14 +2
 - Antitoxin, Lesser         -
 - Antidote Ingredients x 2  -
 - Arsenic x 2               -
-- ? Boar Stew x 4           -
 - ? Gettin' Trashed IPA x 3 -
 - Silver Dagger             L
 - ? Rations x 5             -
@@ -179,6 +180,7 @@ CHA 14 +2
 - Notes for unknown things x 3
 - Unknown thing
 - +1 Antidote
+- 20lbs Bida meat
 
 
 ## Bulk: 6
