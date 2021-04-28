@@ -63,7 +63,7 @@
 
 - 2 Alchemist's Fire, Moderate
 - 2 Acid Flask, Moderate
-- 8 Elixir of Life, Lesser
+- 10 Elixir of Life, Lesser
 -   INFINITE Giant Centipede Poison
 -   INFINITE Arsenic
 - 0 Smoke Stick
@@ -79,7 +79,9 @@
 - 0 False Death
 - 0 Bookthief Brew
 - 4 Cold Iron Blanch
-- 9 Giant Scorpion Venom
+- 0 Giant Scorpion Venom
+- 9 Wyvern Poison
+- 3 Nettleweed Residue
 
 # Attributes
 
