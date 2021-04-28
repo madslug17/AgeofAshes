@@ -21,7 +21,7 @@
 # Vitals
 
  HP:       87
- Damage:   0
+ Re. HP:   87
  AC (t):   26 = 3 + 10 + 3
  Fort (e): 14 =  2 + 12
  Ref (e):  16 =  4 + 12
@@ -62,8 +62,8 @@
 ## Known Recipes
 
 - 2 Alchemist's Fire, Moderate
-- 2 Acid Flask, Moderate
-- 8 Elixir of Life, Lesser
+- 1 Acid Flask, Moderate
+- 1 Elixir of Life, Lesser
 -   INFINITE Giant Centipede Poison
 -   INFINITE Arsenic
 - 2 Smoke Stick
@@ -80,7 +80,7 @@
 - 0 Bookthief Brew
 - 4 Cold Iron Blanch
 - 0 Giant Scorpion Venom
-- 9 Wyvern Poison
+- 5 Wyvern Poison
 - 3 Nettleweed Residue
 
 # Attributes
