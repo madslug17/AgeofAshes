@@ -140,7 +140,7 @@ CHA 14 +2
   - Thieves' Tools          2
 - Dagger                    L
 - Blowgun                   -
-- Blowgun Needles x 97      -
+- Blowgun Needles x 100     -
 - Sling                     L
 - Bullets x 20              -
 - Adventurer's Pack         2
@@ -151,7 +151,6 @@ CHA 14 +2
 - Antiplague, Lesser        -
 - Antitoxin, Lesser         -
 - Antidote Ingredients x 2  -
-- Arsenic x 2               -
 - ? Gettin' Trashed IPA x 3 -
 - Silver Dagger             L
 - ? Rations x 5             -
@@ -187,6 +186,6 @@ CHA 14 +2
 
 ## Bulk: 6
 
-## GP: 114
+## GP: 770
 
-## SP: 20
+## SP: 6
