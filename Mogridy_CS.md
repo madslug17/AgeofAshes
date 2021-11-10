@@ -20,50 +20,50 @@
 
 # Vitals
 
- HP:       87
- Damage:   0
- AC (t):   26 = 3 + 10 + 3
- Fort (e): 14 =  2 + 12
- Ref (e):  16 =  4 + 12
- Will (t): 11 = -1 + 12
+ HP:       98
+ Health:   62
+ AC (t):   27 = 3 + 11 + 3
+ Fort (e): 15 =  2 + 13
+ Ref (e):  17 =  4 + 13
+ Will (t): 12 = -1 + 13
 
-## Perception: 9 = -1 + 10
+## Perception(e): 12 = -1 + 13
 
-## Class DC(t): 24 = 10 + 4 + 10
+## Class DC(t): 27 = 10 + 4 + 13
 
 # Combat
 
 ## Blowgun
 
-+ 16 = 4 + 12
++ 17 = 4 + 13
  1 Damage
  Range 20ft
 
 ## Alchemical Bomb
 
-+ 16 = 4 + 12
++ 17 = 4 + 13
  Range 20ft
 
 ## +1 Striking Dagger
 
-+ 14 = 1 + 12 + 1
++ 15 = 1 + 13 + 1
  2D4 + 2
 
 ## Sling
 
-+ 16 = 4 + 12
++ 17 = 4 + 13
  1D6 + 1
  Range 50ft
 
 # Alchemy
 
-## 16 items per day
+## 18 items per day
 
 ## Known Recipes
 
 - 2 Alchemist's Fire, Moderate
 - 2 Acid Flask, Moderate
-- 8 Elixir of Life, Lesser
+- 8 Elixir of Life, Moderate
 -   INFINITE Giant Centipede Poison
 -   INFINITE Arsenic
 - 0 Smoke Stick
@@ -78,10 +78,10 @@
 - 0 Cytillesh Oil
 - 0 False Death
 - 2 Bookthief Brew
-- 4 Cold Iron Blanch
+- 0 Cold Iron Blanch
 - 0 Giant Scorpion Venom
 - 9 Wyvern Poison
-- 3 Nettleweed Residue
+- 6 Nettleweed Residue
 
 # Attributes
 
@@ -98,6 +98,7 @@ CHA 14 +2
 - City Scavenger
 - Precient Planner
 - Hobnobber
+- Goblin Scuttle
 - Alchemy
 - Toxicologist
 - Subtle Delivery
@@ -112,19 +113,23 @@ CHA 14 +2
 - Prescient Consumable
 - Pinpoint Poisoner
 - Biographical Eye
+- Alchemical Expertise
+- Alertness
+- Double Brew
+- Skittering Scuttle
 
 # Skills
 
-- Acrobatics(t):      14 =  4 + 10
-- Crafting(e):        16 =  4 + 12
-- Deception(t):       12 =  2 + 10
-- Diplomacy(t):       12 =  2 + 10
-- Underworld Lore(t): 14 =  4 + 10
-- Goblin Lore(t):     14 =  4 + 10
-- Society(m):         20 =  4 + 16
-- Stealth(t):         14 =  4 + 10
-- Survival(t):        9 = -1 + 10
-- Thievery(t):        14 =  4 + 10
+- Acrobatics(t):      15 =  4 + 11
+- Crafting(m):        21 =  4 + 17
+- Deception(t):       13 =  2 + 11
+- Diplomacy(t):       13 =  2 + 11
+- Underworld Lore(t): 15 =  4 + 11
+- Goblin Lore(t):     15 =  4 + 11
+- Society(m):         21 =  4 + 17
+- Stealth(t):         15 =  4 + 11
+- Survival(t):        10 = -1 + 11
+- Thievery(t):        15 =  4 + 11
 
 ## Languages
 
@@ -186,6 +191,7 @@ CHA 14 +2
 - 20lbs Bida meat
 - Rod of Wonder
 - Ring of the Ram
+- Decanter of Endless Water
 
 
 ## Bulk: 6
