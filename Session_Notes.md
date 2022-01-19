@@ -1338,3 +1338,11 @@ We move one hexagon south from the Dahak totem.
 We enter a forest so thick the canopy blocks all of the light. We find a bunch of dead Gripplis and large spiderwebs in this dark forest. We see dream spiders and enter **combat!**
 
 Gripplis are rolling. We gotta get them out of here!
+
+# Session Jan 18th 2022
+
+## Bar
+
+We get maps of Kintargo and the region. A halfling says they do not work for the silver triad, but we should seek out Kite Hill in Kintargo.
+
+Gus casts water-breathing on everyone and we get drunk for the whole journey. **Clumsy 1**!

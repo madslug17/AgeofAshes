@@ -8,7 +8,7 @@
 
  Name:       Mogridy
  Race:       Goblin
- Class:      Alchemist 8
+ Class:      Alchemist 9
  Background: Out-of-Towner
  Size:       Small
  Deity:      Norgorber
@@ -21,7 +21,7 @@
 # Vitals
 
  HP:       98
- Health:   62
+ Health:   93
  AC (t):   27 = 3 + 11 + 3
  Fort (e): 15 =  2 + 13
  Ref (e):  17 =  4 + 13
@@ -63,7 +63,7 @@
 
 - 2 Alchemist's Fire, Moderate
 - 2 Acid Flask, Moderate
-- 8 Elixir of Life, Moderate
+- 6 Elixir of Life, Moderate
 -   INFINITE Giant Centipede Poison
 -   INFINITE Arsenic
 - 0 Smoke Stick
@@ -77,10 +77,10 @@
 - 2 Infiltrator's Elixir
 - 0 Cytillesh Oil
 - 0 False Death
-- 2 Bookthief Brew
-- 0 Cold Iron Blanch
+- 0 Bookthief Brew
+- 1 Cold Iron Blanch
 - 0 Giant Scorpion Venom
-- 9 Wyvern Poison
+- 6 Wyvern Poison
 - 6 Nettleweed Residue
 
 # Attributes
@@ -192,6 +192,7 @@ CHA 14 +2
 - Rod of Wonder
 - Ring of the Ram
 - Decanter of Endless Water
+- Maps of Kintargo
 
 
 ## Bulk: 6
