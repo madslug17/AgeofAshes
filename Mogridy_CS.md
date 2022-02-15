@@ -21,7 +21,7 @@
 # Vitals
 
  HP:       98
- Health:   93
+ Health:   98
  AC (t):   27 = 3 + 11 + 3
  Fort (e): 15 =  2 + 13
  Ref (e):  17 =  4 + 13
@@ -61,9 +61,9 @@
 
 ## Known Recipes
 
-- 2 Alchemist's Fire, Moderate
+- 1 Alchemist's Fire, Moderate
 - 2 Acid Flask, Moderate
-- 6 Elixir of Life, Moderate
+- 8 out of 12 Elixir of Life, Moderate
 -   INFINITE Giant Centipede Poison
 -   INFINITE Arsenic
 - 0 Smoke Stick
@@ -76,12 +76,12 @@
 - 2 Forensic Dye
 - 2 Infiltrator's Elixir
 - 0 Cytillesh Oil
-- 0 False Death
+- 2 False Death
 - 0 Bookthief Brew
-- 1 Cold Iron Blanch
+- 2 Cold Iron Blanch
 - 0 Giant Scorpion Venom
-- 6 Wyvern Poison
-- 6 Nettleweed Residue
+- 13 out of 16 Wyvern Poison
+- 0 Nettleweed Residue
 
 # Attributes
 
