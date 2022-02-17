@@ -8,7 +8,7 @@
 
  Name:       Mogridy
  Race:       Goblin
- Class:      Alchemist 9
+ Class:      Alchemist 10
  Background: Out-of-Towner
  Size:       Small
  Deity:      Norgorber
@@ -20,75 +20,77 @@
 
 # Vitals
 
- HP:       98
- Health:   98
- AC (t):   27 = 3 + 11 + 3
- Fort (e): 15 =  2 + 13
- Ref (e):  17 =  4 + 13
- Will (t): 12 = -1 + 13
+ HP:       118
+ Health:   118
+ AC (t):   28 = 3 + 12 + 3
+ Fort (e): 17 =  3 + 14
+ Ref (e):  18 =  4 + 14
+ Will (t): 13 = -1 + 14
 
-## Perception(e): 12 = -1 + 13
+## Perception(e): 13 = -1 + 14
 
-## Class DC(t): 27 = 10 + 4 + 13
+## Class DC(t): 29 = 10 + 5 + 14
 
 # Combat
 
 ## Blowgun
 
-+ 17 = 4 + 13
++ 18 = 4 + 14
  1 Damage
  Range 20ft
 
 ## Alchemical Bomb
 
-+ 17 = 4 + 13
++ 18 = 4 + 18
  Range 20ft
 
 ## +1 Striking Dagger
 
-+ 15 = 1 + 13 + 1
- 2D4 + 2
++ 17 = 2 + 14 + 1
+ 2D4 + 3
 
 ## Sling
 
-+ 17 = 4 + 13
- 1D6 + 1
++ 18 = 4 + 14
+ 1D6 + 2
  Range 50ft
 
 # Alchemy
 
-## 18 items per day
+## 15 items per day
 
 ## Known Recipes
 
-- 1 Alchemist's Fire, Moderate
+- 2 Alchemist's Fire, Moderate
 - 2 Acid Flask, Moderate
-- 8 out of 12 Elixir of Life, Moderate
+- 10 out of 10 Elixir of Life, Moderate
 -   INFINITE Giant Centipede Poison
 -   INFINITE Arsenic
-- 0 Smoke Stick
+-   Smoke Stick
 -   Antidote
-- 2 Tanglefoot Bag, Moderate
+-   Tanglefoot Bag, Moderate
 -   Arsenic
 -   Origin Unguent
 -   Lethargy Poison
-- 0 Ghost Charge, Moderate
+-   Ghost Charge, Moderate
 - 2 Forensic Dye
 - 2 Infiltrator's Elixir
-- 0 Cytillesh Oil
+-   Cytillesh Oil
 - 2 False Death
-- 0 Bookthief Brew
-- 2 Cold Iron Blanch
-- 0 Giant Scorpion Venom
-- 13 out of 16 Wyvern Poison
-- 0 Nettleweed Residue
+-   Bookthief Brew
+-   Cold Iron Blanch
+-   Giant Scorpion Venom
+- 12 out of 12 Wyvern Poison
+-   Nettleweed Residue
+- 2 Alchemical Atmoizer
+-   Wolfsbane
 
 # Attributes
 
-STR 12 +1
-DEX 18 +4
-CON 14 +2
-INT 19 +4
+STR 14 +2
+DEX 19 +4
+CON 16 +3
+INT 20 +5
 WIS 8  -1
 CHA 14 +2
 
@@ -117,19 +119,20 @@ CHA 14 +2
 - Alertness
 - Double Brew
 - Skittering Scuttle
+- Fast Recovery
 
 # Skills
 
-- Acrobatics(t):      15 =  4 + 11
-- Crafting(m):        21 =  4 + 17
-- Deception(t):       13 =  2 + 11
-- Diplomacy(t):       13 =  2 + 11
-- Underworld Lore(t): 15 =  4 + 11
-- Goblin Lore(t):     15 =  4 + 11
-- Society(m):         21 =  4 + 17
-- Stealth(t):         15 =  4 + 11
-- Survival(t):        10 = -1 + 11
-- Thievery(t):        15 =  4 + 11
+- Acrobatics(t):      16 =  4 + 12
+- Crafting(m):        23 =  5 + 18
+- Deception(t):       14 =  2 + 12
+- Diplomacy(t):       14 =  2 + 12
+- Underworld Lore(t): 17 =  5 + 12
+- Goblin Lore(t):     17 =  5 + 12
+- Society(m):         23 =  5 + 18
+- Stealth(t):         16 =  4 + 12
+- Survival(t):        11 = -1 + 12
+- Thievery(t):        16 =  4 + 12
 
 ## Languages
 
