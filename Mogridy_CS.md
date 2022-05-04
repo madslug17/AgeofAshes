@@ -20,8 +20,8 @@
 
 # Vitals
 
- HP:       118
- Health:   118
+ HP:       122
+ Health:   122
  AC (t):   28 = 3 + 12 + 3
  Fort (e): 17 =  3 + 14
  Ref (e):  18 =  4 + 14
@@ -41,7 +41,7 @@
 
 ## Alchemical Bomb
 
-+ 18 = 4 + 18
++ 18 = 4 + 14
  Range 20ft
 
 ## +1 Striking Dagger
@@ -49,21 +49,21 @@
 + 17 = 2 + 14 + 1
  2D4 + 3
 
-## Sling
+## +1 Striking Crossbow
 
-+ 18 = 4 + 14
- 1D6 + 2
++ 19 = 4 + 14 + 1
+ 2D8 + 1
  Range 50ft
 
 # Alchemy
 
-## 15 items per day
+## 18 items per day
 
 ## Known Recipes
 
-- 2 Alchemist's Fire, Moderate
+- 2 out of 2 Alchemist's Fire, Moderate
 - 2 Acid Flask, Moderate
-- 10 out of 10 Elixir of Life, Moderate
+- 12 out of 12 Elixir of Life, Moderate
 -   INFINITE Giant Centipede Poison
 -   INFINITE Arsenic
 -   Smoke Stick
@@ -82,8 +82,8 @@
 -   Giant Scorpion Venom
 - 12 out of 12 Wyvern Poison
 -   Nettleweed Residue
-- 2 Alchemical Atmoizer
--   Wolfsbane
+- 2 Alchemical Atomizer
+- 4 out of 4 Mistform Elixir
 
 # Attributes
 
@@ -96,11 +96,11 @@ CHA 14 +2
 
 # Feats and Abilities
 
-- Irongut Goblin
-- City Scavenger
+- Unbreakable Goblin
+- Bouncy Goblin
 - Precient Planner
 - Hobnobber
-- Goblin Scuttle
+- Junk Tinker
 - Alchemy
 - Toxicologist
 - Subtle Delivery
@@ -118,7 +118,7 @@ CHA 14 +2
 - Alchemical Expertise
 - Alertness
 - Double Brew
-- Skittering Scuttle
+- Roll With It
 - Fast Recovery
 
 # Skills
@@ -140,58 +140,26 @@ CHA 14 +2
 
 # Inventory
 
-*WIP: I gotta buy stuff from Quarters and Bits and split up the Adventurer's Pack*
-
-- Studded Leather Armor     1
+- +1 Leather Armor          1
+- +1 Striking Dagger        L
 - Backpack                  -
   - Cookware                2
-  - Alchemist's Tools       2
+  - Ex Alchemist's Tools    2
   - Repair Kit              1
   - Thieves' Tools          2
-- Dagger                    L
 - Blowgun                   -
 - Blowgun Needles x 100     -
-- Sling                     L
-- Bullets x 20              -
+- +1 Striking Crossbow      - 
+- 30 Bolts                  -
 - Adventurer's Pack         2
 - Bandolier                 -
 - Basic Crafter's Book      L
-- Caltrops x 2              L
-- Sheath                    -
-- Antiplague, Lesser        -
-- Antitoxin, Lesser         -
-- Antidote Ingredients x 2  -
-- ? Gettin' Trashed IPA x 3 -
 - Silver Dagger             L
-- ? Rations x 5             -
-- Grauladon rations x 4     -
-- Lesser Tanglefoot Bag     -
-- Lesser Bottled Lightning  -
-- Lesser Cheetah's Elixir   -
-- Potion of Retaliation, lesser (Type fire)
-- Unidentified Masonry items
 - Invisibility Potion
-- Vial of Gelatinous Cube slime x 5
-- Vial of tunnel dirt
-- Blood Blade Mercenaries Receipt
-- +1 Striking Dagger
 - Voz's Notes translated to Common
 - Pendant of Norgorber
-- +1 Leather Armor
-- Glowing Grass
-- Glowing Cave Mushrooms
 - Deed to Helknight Hill
-- Disnael's Letter
-- Vial of antiparalysis hot sauce x 4
-- Sharinga Sap vial x 15
-- Sharinga Sap bulk 1 (Fable)
-- Sharinga Sap vial 4 (Gus)
-- vial of unknown stuff x 4
-- Unknown stuff x 3
-- Notes for unknown things x 3
-- Unknown thing
-- +1 Antidote
-- 20lbs Bida meat
+- Sharinga Sap vial x 2
 - Rod of Wonder
 - Ring of the Ram
 - Decanter of Endless Water
@@ -200,6 +168,6 @@ CHA 14 +2
 
 ## Bulk: 6
 
-## GP: 110
+## GP: 805
 
 ## SP: 11
