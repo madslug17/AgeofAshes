@@ -22,7 +22,7 @@
 
  HP:       122
  Health:   122
- AC (t):   28 = 3 + 12 + 3
+ AC (t):   28 = 10 + 3 + 12 + 3
  Fort (e): 17 =  3 + 14
  Ref (e):  18 =  4 + 14
  Will (t): 13 = -1 + 14
@@ -63,7 +63,7 @@
 
 - 2 out of 2 Alchemist's Fire, Moderate
 - 2 Acid Flask, Moderate
-- 12 out of 12 Elixir of Life, Moderate
+- 7 out of 12 Elixir of Life, Moderate
 -   INFINITE Giant Centipede Poison
 -   INFINITE Arsenic
 -   Smoke Stick
@@ -80,7 +80,7 @@
 -   Bookthief Brew
 -   Cold Iron Blanch
 -   Giant Scorpion Venom
-- 12 out of 12 Wyvern Poison
+- 8 out of 12 Wyvern Poison
 -   Nettleweed Residue
 - 2 Alchemical Atomizer
 - 4 out of 4 Mistform Elixir
@@ -120,6 +120,7 @@ CHA 14 +2
 - Double Brew
 - Roll With It
 - Fast Recovery
+- Healing Bomb
 
 # Skills
 
@@ -164,6 +165,10 @@ CHA 14 +2
 - Ring of the Ram
 - Decanter of Endless Water
 - Maps of Kintargo
+- vials lichdust x 3
+- doses addlebrain x 2
+- giant wasp venom x 3
+- doses wyvern poison x 2
 
 
 ## Bulk: 6
