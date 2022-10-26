@@ -8,7 +8,7 @@
 
  Name:       Mogridy
  Race:       Goblin
- Class:      Alchemist 10
+ Class:      Alchemist 11
  Background: Out-of-Towner
  Size:       Small
  Deity:      Norgorber
@@ -20,70 +20,75 @@
 
 # Vitals
 
- HP:       122
- Health:   122
- AC (t):   28 = 10 + 3 + 12 + 3
- Fort (e): 17 =  3 + 14
- Ref (e):  18 =  4 + 14
- Will (t): 13 = -1 + 14
+ HP:       133
+ Health:   133
+ AC (t):   29 = 10 + 3 + 13 + 3
+ Fort (e): 20 =  3 + 17
+ Ref (e):  19 =  4 + 15
+ Will (t): 14 = -1 + 15
 
-## Perception(e): 13 = -1 + 14
+## Perception(e): 14 = -1 + 15
 
-## Class DC(t): 29 = 10 + 5 + 14
+## Class DC(t): 30 = 10 + 5 + 15
 
 # Combat
 
 ## Blowgun
 
-+ 18 = 4 + 14
++ 19 = 4 + 15
  1 Damage
  Range 20ft
 
 ## Alchemical Bomb
 
-+ 18 = 4 + 14
++ 19 = 4 + 15
  Range 20ft
 
 ## +1 Striking Dagger
 
-+ 17 = 2 + 14 + 1
++ 18 = 2 + 15 + 1
  2D4 + 3
 
 ## +1 Striking Crossbow
 
-+ 19 = 4 + 14 + 1
++ 20 = 4 + 15 + 1
  2D8 + 1
  Range 50ft
 
 # Alchemy
 
-## 18 items per day
+## 16 infused reagents
 
 ## Known Recipes
 
-- 2 out of 2 Alchemist's Fire, Moderate
-- 2 Acid Flask, Moderate
-- 7 out of 12 Elixir of Life, Moderate
+-   Alchemist's Fire, Moderate
+-   Acid Flask, Moderate
+- 4 out of 12 Elixir of Life, Moderate
 -   INFINITE Giant Centipede Poison
 -   INFINITE Arsenic
 -   Smoke Stick
 -   Antidote
 -   Tanglefoot Bag, Moderate
 -   Arsenic
+-   Cheetah Elixir
 -   Origin Unguent
+-   INFINITE Hunting Spider Venom
+-   INFINITE toadskin salve
 -   Lethargy Poison
 -   Ghost Charge, Moderate
-- 2 Forensic Dye
-- 2 Infiltrator's Elixir
+-   Forensic Dye
+-   Infiltrator's Elixir
 -   Cytillesh Oil
-- 2 False Death
+-   False Death
 -   Bookthief Brew
 -   Cold Iron Blanch
 -   Giant Scorpion Venom
 - 8 out of 12 Wyvern Poison
 -   Nettleweed Residue
 - 2 Alchemical Atomizer
-- 4 out of 4 Mistform Elixir
+-   Mistform Elixir
+- 2 out of 2 Juggernaut Mutagen (Greater)
+- Stone Body Mutagen
 
 # Attributes
 
@@ -120,20 +125,22 @@ CHA 14 +2
 - Double Brew
 - Roll With It
 - Fast Recovery
-- Healing Bomb
+- Potent Poisoner
+- Juggernaut
+- Nimble Crawl
 
 # Skills
 
-- Acrobatics(t):      16 =  4 + 12
-- Crafting(m):        23 =  5 + 18
-- Deception(t):       14 =  2 + 12
-- Diplomacy(t):       14 =  2 + 12
-- Underworld Lore(t): 17 =  5 + 12
-- Goblin Lore(t):     17 =  5 + 12
-- Society(m):         23 =  5 + 18
-- Stealth(t):         16 =  4 + 12
-- Survival(t):        11 = -1 + 12
-- Thievery(t):        16 =  4 + 12
+- Acrobatics(e):      19 =  4 + 15
+- Crafting(m):        24 =  5 + 19
+- Deception(t):       15 =  2 + 13
+- Diplomacy(t):       15 =  2 + 13
+- Underworld Lore(t): 18 =  5 + 13
+- Goblin Lore(t):     18 =  5 + 13
+- Society(m):         24 =  5 + 19
+- Stealth(t):         17 =  4 + 13
+- Survival(t):        12 = -1 + 13
+- Thievery(t):        17 =  4 + 13
 
 ## Languages
 
