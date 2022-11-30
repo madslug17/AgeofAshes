@@ -61,9 +61,11 @@
 
 ## Known Recipes
 
+### Instant Alchemy: 3
+
 -   Alchemist's Fire, Moderate
 -   Acid Flask, Moderate
-- 4 out of 12 Elixir of Life, Moderate
+- 9 out of 12 Elixir of Life, Moderate
 -   INFINITE Giant Centipede Poison
 -   INFINITE Arsenic
 -   Smoke Stick
@@ -83,7 +85,7 @@
 -   Bookthief Brew
 -   Cold Iron Blanch
 -   Giant Scorpion Venom
-- 8 out of 12 Wyvern Poison
+- 12 out of 12 Wyvern Poison
 -   Nettleweed Residue
 - 2 Alchemical Atomizer
 -   Mistform Elixir
@@ -136,7 +138,7 @@ CHA 14 +2
 - Deception(t):       15 =  2 + 13
 - Diplomacy(t):       15 =  2 + 13
 - Underworld Lore(t): 18 =  5 + 13
-- Goblin Lore(t):     18 =  5 + 13
+- Occultism(t):       18 =  5 + 13
 - Society(m):         24 =  5 + 19
 - Stealth(t):         17 =  4 + 13
 - Survival(t):        12 = -1 + 13
@@ -172,14 +174,11 @@ CHA 14 +2
 - Ring of the Ram
 - Decanter of Endless Water
 - Maps of Kintargo
-- vials lichdust x 3
-- doses addlebrain x 2
-- giant wasp venom x 3
-- doses wyvern poison x 2
+- Flying Cauldron
 
 
 ## Bulk: 6
 
-## GP: 805
+## GP: 500
 
-## SP: 11
+## SP: 2
