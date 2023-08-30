@@ -8,7 +8,7 @@
 
  Name:       Mogridy
  Race:       Goblin
- Class:      Alchemist 11
+ Class:      Alchemist 12
  Background: Out-of-Towner
  Size:       Small
  Deity:      Norgorber
@@ -20,52 +20,52 @@
 
 # Vitals
 
- HP:       133
- Health:   133
- AC (t):   29 = 10 + 3 + 13 + 3
- Fort (e): 20 =  3 + 17
- Ref (e):  19 =  4 + 15
- Will (t): 14 = -1 + 15
+ HP:       144
+ Health:   144
+ AC (t):   31 = 10 + 4 + 14 + 3
+ Fort (M): 23 =  3 + 20
+ Ref (e):  20 =  4 + 16
+ Will (e): 15 = -1 + 16
 
-## Perception(e): 14 = -1 + 15
+## Perception(e): 15 = -1 + 16
 
-## Class DC(t): 30 = 10 + 5 + 15
+## Class DC(t): 31 = 10 + 5 + 16
 
 # Combat
 
-## Blowgun
+## Blowgun(e)
 
-+ 19 = 4 + 15
++ 20 = 4 + 16
  1 Damage
  Range 20ft
 
-## Alchemical Bomb
+## Alchemical Bomb(e)
 
-+ 19 = 4 + 15
++ 20 = 4 + 16
  Range 20ft
 
-## +1 Striking Dagger
+## +1 Striking Dagger(e)
 
-+ 18 = 2 + 15 + 1
++ 19 = 2 + 16 + 1
  2D4 + 3
 
-## +1 Striking Crossbow
+## +1 Striking Crossbow(e)
 
-+ 20 = 4 + 15 + 1
++ 21 = 4 + 16 + 1
  2D8 + 1
  Range 50ft
 
 # Alchemy
 
-## 16 infused reagents
+## 17 infused reagents
 
 ## Known Recipes
 
-### Instant Alchemy: 3
+### Instant Alchemy: 0/6
 
 -   Alchemist's Fire, Moderate
 -   Acid Flask, Moderate
-- 9 out of 12 Elixir of Life, Moderate
+- 12 out of 12 Elixir of Life, Moderate
 -   INFINITE Giant Centipede Poison
 -   INFINITE Arsenic
 -   Smoke Stick
@@ -85,12 +85,15 @@
 -   Bookthief Brew
 -   Cold Iron Blanch
 -   Giant Scorpion Venom
-- 12 out of 12 Wyvern Poison
+-   Wyvern Poison
 -   Nettleweed Residue
 - 2 Alchemical Atomizer
 -   Mistform Elixir
-- 2 out of 2 Juggernaut Mutagen (Greater)
-- Stone Body Mutagen
+- 2 out of 4 Juggernaut Mutagen (Greater)
+-   Energy Mutagen
+- 12 out of 12 Blackfinger Blight
+-   Tyrant Ampoule
+-   Slumberwine
 
 # Attributes
 
@@ -130,23 +133,25 @@ CHA 14 +2
 - Potent Poisoner
 - Juggernaut
 - Nimble Crawl
+- Invincible Mutagen
+- Multilingual
 
 # Skills
 
-- Acrobatics(e):      19 =  4 + 15
-- Crafting(m):        24 =  5 + 19
-- Deception(t):       15 =  2 + 13
-- Diplomacy(t):       15 =  2 + 13
-- Underworld Lore(t): 18 =  5 + 13
-- Occultism(t):       18 =  5 + 13
-- Society(m):         24 =  5 + 19
-- Stealth(t):         17 =  4 + 13
-- Survival(t):        12 = -1 + 13
-- Thievery(t):        17 =  4 + 13
+- Acrobatics(e):      20 =  4 + 16
+- Crafting(m):        25 =  5 + 20
+- Deception(t):       16 =  2 + 14
+- Diplomacy(t):       16 =  2 + 14
+- Underworld Lore(t): 19 =  5 + 14
+- Occultism(t):       19 =  5 + 14
+- Society(m):         25 =  5 + 20
+- Stealth(t):         18 =  4 + 14
+- Survival(t):        13 = -1 + 14
+- Thievery(t):        18 =  4 + 14
 
 ## Languages
 
-- Common, Goblin, Draconic, Gnoll, Gnomish, Dwarven, Elven, Necril, Mwangi, Infernal
+- Common, Goblin, Draconic, Gnoll, Gnomish, Dwarven, Elven, Necril, Mwangi, Infernal, Abyssal, Halfling, Orcish
 
 # Inventory
 
@@ -175,6 +180,7 @@ CHA 14 +2
 - Decanter of Endless Water
 - Maps of Kintargo
 - Flying Cauldron
+- Dragon Ribs for cooking
 
 
 ## Bulk: 6
